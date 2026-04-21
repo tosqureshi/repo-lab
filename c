@@ -14,7 +14,10 @@ agent any
     }
    }
    stage('Archive build output') {
-    steps {
+steps{
+ input 'Do you want to proceed'
+}    
+steps {
     // Archive the build output artifacts.
      archiveArtifacts artifacts: 'output/*.txt', excludes: 'output/*.md'
      }
