@@ -1,5 +1,6 @@
 DevOps Training - 27Apr2026
 
+
 Task:1
 
 Changing Hostname:
@@ -23,7 +24,7 @@ Entry in /etc/hosts:
 [root@node3 ~]# 
 
 
-Task1:CompletionStatus:  Satyamev,Tejal,Vaishnavi ,Kiran,Taosif, Andrew,Nithyanandan,Madhumithra,sushandh,sriram,Gunjan,Himanshu, Shreyash P. Lavhate
+Task1:CompletionStatus:  Satyamev,Tejal,Vaishnavi ,Kiran,Taosif, Andrew,Nithyanandan,Madhumithra,sushandh,sriram,Gunjan,Himanshu,ShubhamS, Shreyash P. Lavhate
 
 Task:2
 
@@ -77,7 +78,7 @@ Available Commands:
   build       Build an image using instructions from Containerfiles
 
 
-Task:2:CompletionStatus: Tejal,Vaishnavi,Madhumithra, Andrew, Kiran ,Satyamev,sushandh,sriram, Gunjan,Taosif,Manoj,Himanshu,Nithyanandan
+Task:2:CompletionStatus: Tejal,Vaishnavi,Madhumithra, Andrew, Kiran ,Satyamev,sushandh,sriram, Gunjan,Taosif,Manoj,Himanshu,Nithyanandan, Shreyash P. Lavhate,Shubham S
 
 Task:3
 
@@ -182,7 +183,7 @@ REPOSITORY  TAG         IMAGE ID    CREATED     SIZE
 [root@node3 ~]# 
 
 
-Task:3:CompletionStatus: Satyamev,Vaishnavi,Kiran,Tejal,Madhumithra,Himanshu ,sriram,sushandh,Manoj,Taosif, Andrew,Nithyanandan, Shreyash P. Lavhate, 
+Task:3:CompletionStatus: Satyamev,Vaishnavi,Kiran,Tejal,Madhumithra,Himanshu ,sriram,sushandh,Manoj,Taosif, Andrew,Nithyanandan, Shreyash P. Lavhate, Shubham S
 
 
 28Apr26
@@ -371,7 +372,7 @@ press <Cntrl+d>
 bash-4.4$ 
 
 
-Task:4:CompletionStatus: Chandan, Tejal,Nithyanandan,Vaishnavi,Manoj,Taosif,Satyamev,Adrew,Madhumithra,sushandh,sriram,Gunjan,Kiran,Himanshu, Shreyash P. Lavhate
+Task:4:CompletionStatus: Chandan, Tejal,Nithyanandan,Vaishnavi,Manoj,Taosif,Satyamev,Shubham S,Adrew,Madhumithra,sushandh,sriram,Gunjan,Kiran,Himanshu, Shreyash P. Lavhate
 Task:5  
 
 Port Mapping
@@ -421,7 +422,7 @@ Welcome to PortMapping!!!
 [root@node3 ~]# 
 
 
-Task:5:CompletionStatus: Chandan,Tejal, Vaishnavi,Manoj,Nithyanandan, Andrew,sriram,Madhumithra,Taosif,Satyamev,Himanshu,Gunjan,Kiran,sushandh Shreyash P.Lavhate
+Task:5:CompletionStatus: Chandan,Tejal, Vaishnavi,Manoj,Nithyanandan, Andrew,sriram,Madhumithra,Taosif,Satyamev,Himanshu,Gunjan,Kiran,sushandh Shreyash P.Lavhate,Shubham S
 Task:6
 
 Volume Mapping:
@@ -529,7 +530,7 @@ This content is created in node3!
 This second line is appended - Admin
 
 
-Task:6:CompletionStatus: Kiran,Manoj,Tejal,Taosif,Madhumithra,sushandh,Vaishnavi,sriram,Nithyanandan,Andrew,Satyamev,Himanshu,Gunjan,chandan
+Task:6:CompletionStatus: Kiran,Manoj,Tejal,Taosif,Madhumithra,sushandh,Vaishnavi,sriram,Nithyanandan,Andrew,Satyamev,Himanshu,Shubham S,Gunjan,chandan
 Shreyash P. Lavhate 
 Task:7
 
@@ -638,7 +639,7 @@ bash-4.4$ exit
 exit
 [root@node3 ~]# 
 ,
-Task:8:CompletionStatus: Nithyanandan,Manoj,Vaishnavi,Kiran,chandan,Andrew,Taosif,Satyamev,Tejal,Gunjan,Madhumithra,sushandh,sriram,Himanshu,
+Task:8:CompletionStatus: Shubham S,Nithyanandan,Manoj,Vaishnavi,Kiran,chandan,Andrew,Taosif,Satyamev,Tejal,Gunjan,Madhumithra,sushandh,sriram,Himanshu,
 Shreyash P. Lavhate
 Task:9
 
@@ -995,7 +996,7 @@ af1cca673300  localhost/webimg2:2.0                     httpd -D FOREGROU...  2 
 [root@node3 ~]# 
 
 
-Task:9:CompletionStatus: Nithyanandan,Manoj, Andrew,Madhumithra,Satyamev, Shreyash P. Lavhate,Chandan,Tejal,Taosif,Himanshu,sriram,Vaishnavi,sushandh
+Task:9:CompletionStatus: Nithyanandan,Manoj, Andrew,Madhumithra,Satyamev, Shreyash P. Lavhate,Chandan,Tejal,Taosif,Himanshu,sriram,Vaishnavi,sushandh,Shubham S
 
 Task:10
 
@@ -1204,7 +1205,7 @@ echo "=============================================="
 
 Note: Save the above script in a file "master-install.sh" and execute the same. 
 
-Task:10:CompletionStatus: Himanshu, Chandan,Satyamev,Tejal,Manoj,Nithyanandan,sriram,Vaishnavi,Madhumithra, Andrew, Taosif, Kiran
+Task:10:CompletionStatus: Himanshu, Chandan,Satyamev,Tejal,Manoj,Nithyanandan,sriram,Vaishnavi,Madhumithra, Andrew, Taosif, Kiran, Shreyash P. Lavhate,Shubham S
 
 Task:11: CompletionStatus: Nithyanandan,
 
@@ -1367,7 +1368,8 @@ Note: Create a script in the name "node-install.sh" and then execute the same.
 
 
 
-Task:11:CompletionStatus: Chandan,Satyamev,Kiran,Himanshu,Vaishnavi,Tejal,sriram,Madhumithra,Nithyanandan, Andrew,Taosif,Gunjan
+Task:11:CompletionStatus: Chandan,Satyamev,Shubham,Kiran,Himanshu,Vaishnavi,Tejal,sriram,Madhumithra,Nithyanandan, Andrew,Taosif,Gunjan, Shreyash P. Lavhate
+
 
 Task:12
 
@@ -1375,7 +1377,7 @@ Node2 Pre-Requisites Install:
 Same above node-install.sh script can be used in node2 also: 
 
 
-Task:12:CompletionStatus: Himanshu,Tejal,Chandan,Vaishnavi,Kiran,sriram,Satyamev,Madhumithra,Nithyanandan, Andrew,Taosif, Manoj,Gunjan
+Task:12:CompletionStatus: Himanshu,Tejal,Chandan,Vaishnavi,Kiran,sriram,Shubham S,Satyamev,Madhumithra,Nithyanandan, Andrew,Taosif, Manoj,Gunjan,Shreyash P. Lavhate
 
 
 Task:13 - Joining Nodes with Master:
@@ -1494,7 +1496,7 @@ kube-system   kube-scheduler-master                      1/1     Running   0    
 
 
 
-Task:13:CompletionStatus: Vaishnavi,Manoj,Tejal,Nithyanandan,Himanshu,Chandan,Kiran,Satyamev,sriram,Madhumithra,Taosif,Gunjan, Andrew
+Task:13:CompletionStatus: Vaishnavi,Manoj,Tejal,Nithyanandan,Himanshu,Chandan,Kiran,Satyamev,sriram,Madhumithra,Taosif,Gunjan, Andrew,sushandh Shreyash P. Lavhate,Shubham S
 
 
 30Apr26:
@@ -1586,7 +1588,7 @@ set cursorcolumn
 ---save-----
 [root@master ~]# 
 
-
+POD
 
 [root@master ~]# vim pod.yml
 apiVersion: v1
@@ -1636,7 +1638,7 @@ root       76253   41047  0 00:24 pts/0    00:00:00 grep --color=auto kube-contr
 
 
 
-Task:14:CompletionStatus: Nithyanandan, Vaishnavi, Manoj,Chandan,Satyamev,Taosif,sriram, Andrew, Manoj,Madhumithra,Kiran, Tejal,Himanshu,sushandh,Gunjan
+Task:14:CompletionStatus: Nithyanandan, Vaishnavi, Manoj,Chandan,Satyamev,Taosif,sriram, Andrew, Manoj,Madhumithra,Kiran, Tejal,Himanshu,sushandh,Gunjan, Shreyash P. Lavhate,Shubham S
 
 Task:15 
 Replicaset:
@@ -1774,7 +1776,7 @@ Events:
   Normal  SuccessfulCreate  93s    replicaset-controller  Created pod: myapps-rset-hx6pf
 [root@master ~]# 
 
-Task:15:CompletionStatus: Chandan,Tejal,Satyamev,Manoj, Andrew, sriram,Taosif ,Madhumithra,Himanshu,Gunjan,Nithyanandan,Vaishnavi,Kiran,
+Task:15:CompletionStatus: Chandan,Tejal,Satyamev,Manoj, Andrew, sriram,Taosif ,Madhumithra,Himanshu,Gunjan,Nithyanandan,Vaishnavi,Shubham S,Kiran,Shreyash P. Lavhate
 Task:16
 Deployment:
 
@@ -1949,7 +1951,7 @@ my-dep-795466c49d-p264q   1/1     Running   0          19s
 [root@master ~]# 
 
 
-Task:16:CompletionStatus:Chandan,Tejal,Manoj,Nithyanandan,sriram,Kiran,Vaishnavi,Madhumithra,Satyamev, Andrew, Taosif,sushandh, Gunjan,Himanshu
+Task:16:CompletionStatus:Chandan,Tejal,Manoj,Nithyanandan,sriram,Kiran,Vaishnavi,Madhumithra,Satyamev, Andrew, Taosif,sushandh, Gunjan,Himanshu, Shreyash P. Lavhate,Shubham S
 
 Task:17
 
@@ -2088,7 +2090,2075 @@ my-dep-795466c49d-wkhhc   1/1     Running   0          11s
 [root@master ~]# 
 
 
-Task:17:CompletionStatus:Satyamev, Andrew, Madhumithra,Taosif
+Task:17:CompletionStatus:Satyamev, Andrew, Madhumithra,Taosif,Manoj,Nithyanandan,Shreyash P. Lavhate,Shubham S
+
+
+04May2026
+
+Task:18
+NameSpace:
+
+
+[root@master ~]# kubectl get ns
+NAME              STATUS   AGE
+default           Active   4d22h
+kube-node-lease   Active   4d22h
+kube-public       Active   4d22h
+kube-system       Active   4d22h
+tcs               Active   4d20h
+
+[root@master ~]# kubectl create ns feds --dry-run=client -o yaml 
+apiVersion: v1
+kind: Namespace
+metadata:
+  creationTimestamp: null
+  name: feds
+spec: {}
+status: {}
+[root@master ~]#
+
+[root@master ~]# kubectl create ns feds --dry-run=client -o yaml > ns.yml
+
+
+[root@master ~]# kubectl create -f ns.yml 
+namespace/feds created
+[root@master ~]# kubectl get ns
+NAME              STATUS   AGE
+default           Active   4d22h
+feds              Active   4s
+kube-node-lease   Active   4d22h
+kube-public       Active   4d22h
+kube-system       Active   4d22h
+tcs               Active   4d20h
+[root@master ~]# kubectl config set-context $(kubectl config current-context) --namespace=feds
+Context "kubernetes-admin@kubernetes" modified.
+[root@master ~]# kubectl config get-contexts
+CURRENT   NAME                          CLUSTER      AUTHINFO           NAMESPACE
+*         kubernetes-admin@kubernetes   kubernetes   kubernetes-admin   feds
+[root@master ~]# kubectl get all
+No resources found in feds namespace.
+[root@master ~]# kubectl get pod
+No resources found in feds namespace.
+[root@master ~]#
+
+[root@master ~]# kubectl create -f deploy.yml
+deployment.apps/hello created
+[root@master ~]#
+
+[root@master ~]# kubectl get deploy
+NAME    READY   UP-TO-DATE   AVAILABLE   AGE
+hello   1/1     1            1           2m5s
+[root@master ~]# kubectl get all
+NAME                         READY   STATUS    RESTARTS   AGE
+pod/hello-5b5df85c44-xlc89   1/1     Running   0          2m12s
+
+NAME                    READY   UP-TO-DATE   AVAILABLE   AGE
+deployment.apps/hello   1/1     1            1           2m12s
+
+NAME                               DESIRED   CURRENT   READY   AGE
+replicaset.apps/hello-5b5df85c44   1         1         1       2m12s
+[root@master ~]#
+
+[root@master ~]# kubectl get pod -n default
+NAME                      READY   STATUS    RESTARTS      AGE
+my-dep-795466c49d-2vqcn   1/1     Running   2 (87m ago)   3d20h
+my-dep-795466c49d-5pcw4   1/1     Running   2 (87m ago)   3d20h
+my-dep-795466c49d-648nz   1/1     Running   0             45h
+my-dep-795466c49d-cxqdm   1/1     Running   2 (87m ago)   3d20h
+my-dep-795466c49d-dn4ts   1/1     Running   0             45h
+my-dep-795466c49d-g6nt8   1/1     Running   2 (87m ago)   3d20h
+my-dep-795466c49d-k5v7c   1/1     Running   0             45h
+my-dep-795466c49d-p6dw5   1/1     Running   0             45h
+my-dep-795466c49d-qwm7p   1/1     Running   0             45h
+my-dep-795466c49d-wkhhc   1/1     Running   2 (87m ago)   3d20h
+[root@master ~]# kubectl get pod -n kube-node-lease
+No resources found in kube-node-lease namespace.
+[root@master ~]# 
+
+
+Task:18:CompletionStatus: Vaishnavi, Tejal,Chandan,Kiran,Himanshu, Andrew, Taosif,Manoj,Asutosh,sushandh ,Gunjan,sriram,Satyamev,Madhumithra,Nithyanandan, Shreyash P. Lavhate,ShubhamS
+
+Task:19
+Daemonset:
+
+ Master Node:
+
+[root@master ~]# vim Daemonset.yml 
+apiVersion: apps/v1
+kind: DaemonSet
+metadata: 
+  name: mydset
+  labels:
+    app: dset-ds
+spec:
+  template:
+    metadata:
+      name: mydset-pod
+      labels:
+        type: mydset
+    spec:
+      containers:
+      - image: nginx
+        name: mydsetcont
+  selector:
+    matchLabels:
+      type: mydset
+
+[root@master ~]# kubectl create -f Daemonset.yml 
+[root@master ~]#  
+
+[root@master ~]# kubectl get ds
+NAME     DESIRED   CURRENT   READY   UP-TO-DATE   AVAILABLE   NODE SELECTOR   AGE
+mydset   2         2         2       2            2           <none>          6s
+[root@master ~]# kubectl get pod
+NAME           READY   STATUS    RESTARTS   AGE
+mydset-b6lb4   1/1     Running   0          9s
+mydset-rlz4n   1/1     Running   0          9s
+[root@master ~]# kubectl get pod -o wide
+NAME           READY   STATUS    RESTARTS   AGE   IP            NODE                NOMINATED NODE   READINESS GATES
+mydset-b6lb4   1/1     Running   0          22s   192.168.0.6   node1.example.com   <none>           <none>
+mydset-rlz4n   1/1     Running   0          22s   192.168.0.5   node2.example.com   <none>           <none>
+[root@master ~]# 
+
+Checking the DS instance from nodes:
+Node1:
+
+[root@node1 ~]# crictl ps 
+WARN[0000] runtime connect using default endpoints: [unix:///var/run/dockershim.sock unix:///run/containerd/containerd.sock unix:///run/crio/crio.sock unix:///var/run/cri-dockerd.sock]. As the default settings are now deprecated, you should set the endpoint instead. 
+ERRO[0000] validate service connection: validate CRI v1 image API for endpoint "unix:///var/run/dockershim.sock": rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial unix /var/run/dockershim.sock: connect: no such file or directory" 
+CONTAINER           IMAGE               CREATED             STATE               NAME                ATTEMPT             POD ID              POD
+3ae25be4cd294       576306625d797       41 seconds ago      Running             mydsetcont          0                   41450098eb435       mydset-b6lb4
+00f415f9a7816       e83704a177312       3 hours ago         Running             kube-flannel        12                  e94c964f8b860       kube-flannel-ds-kvpjc
+13ba0d73ffa54       f71614796eb76       3 hours ago         Running             kube-proxy          6                   7e87e19ecf805       kube-proxy-275vc
+[root@node1 ~]# 
+
+Node:2
+
+[root@node2 ~]# crictl ps
+WARN[0000] runtime connect using default endpoints: [unix:///var/run/dockershim.sock unix:///run/containerd/containerd.sock unix:///run/crio/crio.sock unix:///var/run/cri-dockerd.sock]. As the default settings are now deprecated, you should set the endpoint instead. 
+ERRO[0000] validate service connection: validate CRI v1 image API for endpoint "unix:///var/run/dockershim.sock": rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial unix /var/run/dockershim.sock: connect: no such file or directory" 
+CONTAINER           IMAGE               CREATED             STATE               NAME                ATTEMPT             POD ID              POD
+25835bcd2f377       576306625d797       48 seconds ago      Running             mydsetcont          0                   d40a0762e8b2d       mydset-rlz4n
+1de015f6a6a17       e83704a177312       3 hours ago         Running             kube-flannel        13                  b1908b168da6a       kube-flannel-ds-k588x
+bcf0d5fa004ba       f71614796eb76       3 hours ago         Running             kube-proxy          6                   673063623153e       kube-proxy-btgl2
+[root@node2 ~]# 
+
+
+Going to configure a new node (node3) and join into the existing cluster:
+
+[root@node3 ~]# yum list installed *docker*
+Installed Packages
+podman-docker.noarch               4:4.9.4-23.module+el8.10.0+2064+309a12a4                @appstream
+[root@node3 ~]# 
+
+[root@node3 ~]# yum remove podman-docker -y
+Dependencies resolved.
+=====================================================================================================
+ Package            Arch        Version                                        Repository       Size
+=====================================================================================================
+Removing:
+ podman-docker      noarch      4:4.9.4-23.module+el8.10.0+2064+309a12a4       @appstream       10 k
+
+Transaction Summary
+=====================================================================================================
+Remove  1 Package
+
+Freed space: 10 k
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+  Preparing        :                                                                             1/1 
+  Erasing          : podman-docker-4:4.9.4-23.module+el8.10.0+2064+309a12a4.noarch               1/1 
+  Running scriptlet: podman-docker-4:4.9.4-23.module+el8.10.0+2064+309a12a4.noarch               1/1 
+  Verifying        : podman-docker-4:4.9.4-23.module+el8.10.0+2064+309a12a4.noarch               1/1 
+
+Removed:
+  podman-docker-4:4.9.4-23.module+el8.10.0+2064+309a12a4.noarch                                      
+
+Complete!
+[root@node3 ~]# docker
+bash: docker: command not found...
+
+Need to do pre-requisites:
+
+----->>>> Execute node-install.sh script in your node3 ------------------------  
+
+
+Create a new token in Masternode:
+    
+[root@master ~]# kubeadm token create --print-join-command
+kubeadm join 10.0.14.1:6443 --token mcgcrm.aw1luo7hglrisi6l --discovery-token-ca-cert-hash sha256:fefbb7d2f84c19dddb2cb73f9aa22bc982b0b55e932d715a564ad056eeed5ebf 
+[root@master ~]# 
+    
+The below command should be executed in node3:
+    
+[root@node3 ~]# kubeadm join 10.0.14.1:6443 --token mcgcrm.aw1luo7hglrisi6l --discovery-token-ca-cert-hash sha256:fefbb7d2f84c19dddb2cb73f9aa22bc982b0b55e932d715a564ad056eeed5ebf
+[preflight] Running pre-flight checks
+[preflight] Reading configuration from the cluster...
+[preflight] FYI: You can look at this config file with 'kubectl -n kube-system get cm kubeadm-config -o yaml'
+[kubelet-start] Writing kubelet configuration to file "/var/lib/kubelet/config.yaml"
+[kubelet-start] Writing kubelet environment file with flags to file "/var/lib/kubelet/kubeadm-flags.env"
+[kubelet-start] Starting the kubelet
+[kubelet-start] Waiting for the kubelet to perform the TLS Bootstrap...
+
+This node has joined the cluster:
+* Certificate signing request was sent to apiserver and a response was received.
+* The Kubelet was informed of the new secure connection details.
+
+Run 'kubectl get nodes' on the control-plane to see this node join the cluster.
+
+[root@node3 ~]# 
+
+[root@master ~]# kubectl get nodes
+NAME                STATUS   ROLES               AGE     VERSION
+master              Ready    control-plane       4d23h   v1.32.13
+node1.example.com   Ready    worker,workernode   4d21h   v1.32.13
+node2.example.com   Ready    worker,workernode   4d21h   v1.32.13
+node3.example.com   Ready    <none>              12s     v1.32.13
+[root@master ~]# kubectl get ds
+NAME     DESIRED   CURRENT   READY   UP-TO-DATE   AVAILABLE   NODE SELECTOR   AGE
+mydset   3         3         3       3            3           <none>          3m23s
+[root@master ~]# 
+
+  
+
+[root@master ~]# kubectl get ds
+NAME     DESIRED   CURRENT   READY   UP-TO-DATE   AVAILABLE   NODE SELECTOR   AGE
+mydset   3         3         3       3            3           <none>          28m
+[root@master ~]#  
+    
+From node3:
+
+[root@node3 ~]# crictl ps
+WARN[0000] runtime connect using default endpoints: [unix:///var/run/dockershim.sock unix:///run/containerd/containerd.sock unix:///run/crio/crio.sock unix:///var/run/cri-dockerd.sock]. As
+ERRO[0000] validate service connection: validate CRI v1 image API for endpoint "unix:///var/run/dockershim.sock": rpc error: code = Unavailable desc = connection error: desc = "transport: Error while dialing: dial unix /var/run/dockershim.sock: connect: no such file or directory" 
+CONTAINER           IMAGE               CREATED              STATE               NAME                ATTEMPT             POD ID              POD
+213b7217ce6bc       576306625d797       About a minute ago   Running             mydsetcont          0                   c2ede6cb12882       mydset-gj6j4  ---> this instance is created by default
+95b537b429a4c       e83704a177312       About a minute ago   Running             kube-flannel        5                   6951bf6173bd9       kube-flannel-ds-bznpn
+60bf6c01fc70c       f71614796eb76       4 minutes ago        Running             kube-proxy          0                   26db8c69ba348       kube-proxy-7g6lp
+[root@node3 ~]# 
+
+
+Task:19::CompletionStatus:Satyamev,Chandan,Tejal,Vaishnavi,Himanshu,Gunjan,Madhumithra,Manoj,sushandh,Taosif,Nithyanandan,Kiran Shreyash P. Lavhate,Shubham S,sriram, Andrew.
+    
+Networking:
+Task:20
+
+1. ClusterIP
+
+[root@master ~]# kubectl get deploy
+No resources found in feds namespace.
+[root@master ~]# kubectl create -f deploy.yml 
+deployment.apps/hello created
+[root@master ~]# kubectl get deploy
+NAME    READY   UP-TO-DATE   AVAILABLE   AGE
+hello   3/4     4            3           4s
+[root@master ~]# kubectl get pod 
+NAME                     READY   STATUS    RESTARTS   AGE
+hello-5b5df85c44-78dt8   1/1     Running   0          7s
+hello-5b5df85c44-dqsfg   1/1     Running   0          7s
+hello-5b5df85c44-j6nxm   1/1     Running   0          7s
+hello-5b5df85c44-wggxx   1/1     Running   0          7s
+mydset-5fn76             1/1     Running   0          95m
+mydset-ffw7l             1/1     Running   0          98m
+mydset-kvclg             1/1     Running   0          98m
+[root@master ~]# kubectl get pod | grep hello
+hello-5b5df85c44-78dt8   1/1     Running   0          15s
+hello-5b5df85c44-dqsfg   1/1     Running   0          15s
+hello-5b5df85c44-j6nxm   1/1     Running   0          15s
+hello-5b5df85c44-wggxx   1/1     Running   0          15s
+[root@master ~]# 
+
+
+[root@node3 ~]# vim service.yml
+apiVersion: v1
+kind: Service
+metadata:
+  name: my-svc
+  labels:
+    app: myapp   -------------------->>> this label should be available on the pods (thorugh deployment)
+spec:
+  selector:
+    app: myapp    
+  ports:
+    - protocol: TCP
+      port: 80         
+      targetPort: 8080  
+  type: ClusterIP      
+[root@node3 ~]# 
+
+[root@master ~]# kubectl create -f service.yml
+service/my-svc created
+[root@master ~]# kubectl get svc
+NAME     TYPE        CLUSTER-IP     EXTERNAL-IP   PORT(S)   AGE
+my-svc   ClusterIP   10.103.58.53   <none>        80/TCP    4s
+[root@master ~]#
+
+
+[root@master ~]# kubectl describe svc my-svc
+Name:                     my-svc
+Namespace:                feds
+Labels:                   app=myapp
+Annotations:              <none>
+Selector:                 app=myapp
+Type:                     ClusterIP
+IP Family Policy:         SingleStack
+IP Families:              IPv4
+IP:                       10.103.58.53
+IPs:                      10.103.58.53
+Port:                     <unset>  80/TCP
+TargetPort:               8080/TCP
+Endpoints:                192.168.221.15:8080,192.168.221.13:8080,192.168.178.198:8080 + 1 more...
+Session Affinity:         None
+Internal Traffic Policy:  Cluster
+Events:                   <none>
+[root@master ~]# 
+
+Task:20:CompletionStatus: Madhumithra,Taosif,Kiran,Tejal,Nithyanandan,Vaishnavi,Shreyash P. Lavhate,Manoj,Gunjan,sushandh,Himanshu, Andrew,Shubham S 
+
+Task:21
+2. NodePort:     (Exposed to the external users)
+
+[root@master ~]# vim service-np.yml 
+apiVersion: v1
+kind: Service
+metadata:
+  name: my-svc
+  labels:
+    app: myapp
+spec:
+  selector:
+    app: myapp   
+  ports:
+    - nodePort: 30100  
+      protocol: TCP
+      port: 80        
+      targetPort: 8080 
+  type: NodePort     
+
+[root@master ~]# 
+
+
+[root@master ~]# kubectl create -f service-np.yml
+service/my-svc created
+[root@master ~]# kubectl get deploy
+NAME    READY   UP-TO-DATE   AVAILABLE   AGE
+hello   4/4     4            4           54m
+[root@master ~]#
+
+[root@master ~]# kubectl get pod | grep hello
+hello-5b5df85c44-78dt8   1/1     Running   0          54m
+hello-5b5df85c44-dqsfg   1/1     Running   0          54m
+hello-5b5df85c44-j6nxm   1/1     Running   0          54m
+hello-5b5df85c44-wggxx   1/1     Running   0          54m
+
+[root@master ~]# kubectl describe svc my-svc
+Name:                     my-svc
+Namespace:                feds
+Labels:                   app=myapp
+Annotations:              <none>
+Selector:                 app=myapp
+Type:                     NodePort
+IP Family Policy:         SingleStack
+IP Families:              IPv4
+IP:                       10.111.78.203
+IPs:                      10.111.78.203
+Port:                     <unset>  80/TCP
+TargetPort:               8080/TCP
+NodePort:                 <unset>  30100/TCP
+Endpoints:                192.168.178.198:8080,192.168.221.15:8080,192.168.11.78:8080 + 1 more...
+Session Affinity:         None
+External Traffic Policy:  Cluster
+Internal Traffic Policy:  Cluster
+Events:                   <none>
+[root@master ~]#  
+
+[root@master ~]# kubectl get svc
+NAME     TYPE       CLUSTER-IP      EXTERNAL-IP   PORT(S)        AGE
+my-svc   NodePort   10.106.11.206   <none>        80:30100/TCP   2s
+[root@master ~]# 
+
+
+Node1:
+
+[root@node1 ~]# crictl ps | grep hello
+WARN[0000] Config "/etc/crictl.yaml" does not exist, trying next: "/usr/bin/crictl.yaml" 
+WARN[0000] runtime connect using default endpoints: [unix:///run/containerd/containerd.sock unix:///run/crio/crio.sock unix:///var/run/cri-dockerd.sock]. As the default settings are now deprecated, you should set the endpoint instead. 
+WARN[0000] Image connect using default endpoints: [unix:///run/containerd/containerd.sock unix:///run/crio/crio.sock unix:///var/run/cri-dockerd.sock]. As the default settings are now deprecated, you should set the endpoint instead. 
+431e89c692035       6c3a6ea6608c8       56 minutes ago      Running             nginx               0                   cc9891036905e       hello-5b5df85c44-78dt8    feds
+[root@node1 ~]# curl localhost:30100
+curl: (7) Failed to connect to localhost port 30100: Connection refused
+[root@node1 ~]# curl localhost:30100
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to nginx!</title>
+<style>
+html { color-scheme: light dark; }
+body { width: 35em; margin: 0 auto;
+font-family: Tahoma, Verdana, Arial, sans-serif; }
+</style>
+</head>
+<body>
+<h1>Welcome to nginx!</h1>
+<p>If you see this page, nginx is successfully installed and working.
+Further configuration is required for the web server, reverse proxy, 
+API gateway, load balancer, content cache, or other features.</p>
+
+<p>For online documentation and support please refer to
+<a href="https://nginx.org/">nginx.org</a>.<br/>
+To engage with the community please visit
+<a href="https://community.nginx.org/">community.nginx.org</a>.<br/>
+For enterprise grade support, professional services, additional 
+security features and capabilities please refer to
+<a href="https://f5.com/nginx">f5.com/nginx</a>.</p>
+
+<p><em>Thank you for using nginx.</em></p>
+</body>
+</html>
+[root@node1 ~]# 
+
+Task:21:CompletionStatus:Satyamev,Himanshu,Taosif, Vaishnavi,Madhumithra,Tejal,sushandh,Nithyanandan, Gunjan,Kiran,sriram,ShubhamS,Manoj
+
+05May20206
+
+Task:22
+Excercises:
+    
+1. Create ClusterIP with service port of 8090 and target port of 80 using nginx as image. 
+2. Create NodePort with service port of 8091 and targetport of 80 using nginx image.  Configure 30200 as your nodeport
+
+ 
+ Task:22:CompletionStatus: Madhumithra,Chandan,Tejal,Kiran,Satyamev,Taosif,ShubhamS,Vaishnavi,Nithyanandan,Himanshu,sriram, Manoj,sushandh
+
+Discussed Ingress 
+
+Task:23
+Node Maintenance:
+    
+Cordon:
+    
+[root@master ~]# kubectl get nodes
+NAME                STATUS   ROLES               AGE     VERSION
+master              Ready    control-plane       6d1h    v1.32.13
+node1.example.com   Ready    worker,workernode   5d23h   v1.32.13
+node2.example.com   Ready    worker,workernode   5d23h   v1.32.13
+node3.example.com   Ready    <none>              25h     v1.32.13
+[root@master ~]# kubectl cordon node1.example.com 
+node/node1.example.com cordoned
+[root@master ~]# kubectl get nodes
+NAME                STATUS                     ROLES               AGE     VERSION
+master              Ready                      control-plane       6d1h    v1.32.13
+node1.example.com   Ready,SchedulingDisabled   worker,workernode   5d23h   v1.32.13
+node2.example.com   Ready                      worker,workernode   5d23h   v1.32.13
+node3.example.com   Ready                      <none>              25h     v1.32.13
+[root@master ~]#
+    
+[root@master ~]# kubectl get pod -o wide| grep -v mydset
+NAME                     READY   STATUS    RESTARTS        AGE   IP                NODE                NOMINATED NODE   READINESS GATES
+hello-5b5df85c44-78dt8   1/1     Running   1 (4h1m ago)    24h   192.168.11.87     node1.example.com   <none>           <none>
+hello-5b5df85c44-dqsfg   1/1     Running   1 (3h59m ago)   24h   192.168.221.17    node2.example.com   <none>           <none>
+hello-5b5df85c44-j6nxm   1/1     Running   1 (3h57m ago)   24h   192.168.178.200   node3.example.com   <none>           <none>
+hello-5b5df85c44-wggxx   1/1     Running   1 (3h59m ago)   24h   192.168.221.12    node2.example.com   <none>           <none>
+[root@master ~]# 
+
+
+[root@master ~]# kubectl scale --replicas=8 deploy hello
+deployment.apps/hello scaled
+[root@master ~]#
+
+[root@master ~]# kubectl get pod -o wide| grep -v mydset
+NAME                     READY   STATUS    RESTARTS        AGE   IP                NODE                NOMINATED NODE   READINESS GATES
+hello-5b5df85c44-6bfm8   1/1     Running   0               7s    192.168.221.18    node2.example.com   <none>           <none>
+hello-5b5df85c44-78dt8   1/1     Running   1 (4h3m ago)    24h   192.168.11.87     node1.example.com   <none>           <none>
+hello-5b5df85c44-dqsfg   1/1     Running   1 (4h1m ago)    24h   192.168.221.17    node2.example.com   <none>           <none>
+hello-5b5df85c44-j6nxm   1/1     Running   1 (3h59m ago)   24h   192.168.178.200   node3.example.com   <none>           <none>
+hello-5b5df85c44-ppx75   1/1     Running   0               7s    192.168.178.202   node3.example.com   <none>           <none>
+hello-5b5df85c44-vtd8m   1/1     Running   0               7s    192.168.178.203   node3.example.com   <none>           <none>
+hello-5b5df85c44-wggxx   1/1     Running   1 (4h1m ago)    24h   192.168.221.12    node2.example.com   <none>           <none>
+hello-5b5df85c44-zg25s   1/1     Running   0               7s    192.168.178.201   node3.example.com   <none>           <none>
+[root@master ~]# 
+
+
+Note: Except node1.example.com, its deployed on other nodes.
+
+Drain:
+
+[root@master ~]# kubectl drain node1.example.com 
+node/node1.example.com already cordoned
+error: unable to drain node "node1.example.com" due to error: cannot delete DaemonSet-managed Pods (use --ignore-daemonsets to ignore): feds/mydset-kvclg, kube-system/calico-node-s64jm, kube-system/kube-proxy-fnl2d, continuing command...
+There are pending nodes to be drained:
+ node1.example.com
+cannot delete DaemonSet-managed Pods (use --ignore-daemonsets to ignore): feds/mydset-kvclg, kube-system/calico-node-s64jm, kube-system/kube-proxy-fnl2d
+[root@master ~]# kubectl drain node1.example.com --ignore-daemonsets
+node/node1.example.com already cordoned
+Warning: ignoring DaemonSet-managed Pods: feds/mydset-kvclg, kube-system/calico-node-s64jm, kube-system/kube-proxy-fnl2d
+evicting pod feds/hello-5b5df85c44-78dt8
+evicting pod default/my-dep-795466c49d-qwm7p
+evicting pod default/my-dep-795466c49d-dn4ts
+evicting pod default/my-dep-795466c49d-5pcw4
+evicting pod default/my-dep-795466c49d-648nz
+evicting pod default/my-dep-795466c49d-cxqdm
+evicting pod default/my-dep-795466c49d-p6dw5
+evicting pod default/my-dep-795466c49d-g6nt8
+evicting pod default/my-dep-795466c49d-k5v7c
+evicting pod default/my-dep-795466c49d-wkhhc
+evicting pod default/my-dep-795466c49d-2vqcn
+I0505 02:35:22.483029  153485 request.go:729] Waited for 1.159555544s due to client-side throttling, not priority and fairness, request: GET:https://10.0.14.1:6443/api/v1/namespaces/default/pods/my-dep-795466c49d-5pcw4
+pod/hello-5b5df85c44-78dt8 evicted
+pod/my-dep-795466c49d-5pcw4 evicted
+pod/my-dep-795466c49d-k5v7c evicted
+pod/my-dep-795466c49d-g6nt8 evicted
+pod/my-dep-795466c49d-dn4ts evicted
+pod/my-dep-795466c49d-p6dw5 evicted
+pod/my-dep-795466c49d-2vqcn evicted
+pod/my-dep-795466c49d-cxqdm evicted
+pod/my-dep-795466c49d-wkhhc evicted
+pod/my-dep-795466c49d-648nz evicted
+pod/my-dep-795466c49d-qwm7p evicted
+node/node1.example.com drained
+[root@master ~]# 
+
+[root@master ~]# kubectl get pod -o wide| grep -v mydset
+NAME                     READY   STATUS    RESTARTS       AGE     IP                NODE                NOMINATED NODE   READINESS GATES
+hello-5b5df85c44-6bfm8   1/1     Running   0              5m37s   192.168.221.18    node2.example.com   <none>           <none>
+hello-5b5df85c44-dqsfg   1/1     Running   1 (4h6m ago)   24h     192.168.221.17    node2.example.com   <none>           <none>
+hello-5b5df85c44-j6nxm   1/1     Running   1 (4h4m ago)   24h     192.168.178.200   node3.example.com   <none>           <none>
+hello-5b5df85c44-ppx75   1/1     Running   0              5m37s   192.168.178.202   node3.example.com   <none>           <none>
+hello-5b5df85c44-vtd8m   1/1     Running   0              5m37s   192.168.178.203   node3.example.com   <none>           <none>
+hello-5b5df85c44-wggxx   1/1     Running   1 (4h6m ago)   24h     192.168.221.12    node2.example.com   <none>           <none>
+hello-5b5df85c44-z7hg8   1/1     Running   0              89s     192.168.221.22    node2.example.com   <none>           <none>
+hello-5b5df85c44-zg25s   1/1     Running   0              5m37s   192.168.178.201   node3.example.com   <none>           <none>
+[root@master ~]# kubectl get nodes
+NAME                STATUS                     ROLES               AGE     VERSION
+master              Ready                      control-plane       6d1h    v1.32.13
+node1.example.com   Ready,SchedulingDisabled   worker,workernode   5d23h   v1.32.13
+node2.example.com   Ready                      worker,workernode   5d23h   v1.32.13
+node3.example.com   Ready                      <none>              25h     v1.32.13
+[root@master ~]# kubectl uncordon node1.example.com
+node/node1.example.com uncordoned
+[root@master ~]# kubectl get nodes
+NAME                STATUS   ROLES               AGE     VERSION
+master              Ready    control-plane       6d1h    v1.32.13
+node1.example.com   Ready    worker,workernode   5d23h   v1.32.13
+node2.example.com   Ready    worker,workernode   5d23h   v1.32.13
+node3.example.com   Ready    <none>              25h     v1.32.13
+[root@master ~]# kubectl get pod -o wide| grep -v mydset
+NAME                     READY   STATUS    RESTARTS        AGE     IP                NODE                NOMINATED NODE   READINESS GATES
+hello-5b5df85c44-6bfm8   1/1     Running   0               6m49s   192.168.221.18    node2.example.com   <none>           <none>
+hello-5b5df85c44-dqsfg   1/1     Running   1 (4h8m ago)    24h     192.168.221.17    node2.example.com   <none>           <none>
+hello-5b5df85c44-j6nxm   1/1     Running   1 (4h6m ago)    24h     192.168.178.200   node3.example.com   <none>           <none>
+hello-5b5df85c44-ppx75   1/1     Running   0               6m49s   192.168.178.202   node3.example.com   <none>           <none>
+hello-5b5df85c44-vtd8m   1/1     Running   0               6m49s   192.168.178.203   node3.example.com   <none>           <none>
+hello-5b5df85c44-wggxx   1/1     Running   1 (4h8m ago)    24h     192.168.221.12    node2.example.com   <none>           <none>
+hello-5b5df85c44-z7hg8   1/1     Running   0               2m41s   192.168.221.22    node2.example.com   <none>           <none>
+hello-5b5df85c44-zg25s   1/1     Running   0               6m49s   192.168.178.201   node3.example.com   <none>           <none>
+[root@master ~]# kubectl scale --replicas=10 deploy hello
+deployment.apps/hello scaled
+[root@master ~]# kubectl get pod -o wide| grep -v mydset
+NAME                     READY   STATUS              RESTARTS        AGE     IP                NODE                NOMINATED NODE   READINESS GATES
+hello-5b5df85c44-4g92g   0/1     ContainerCreating   0               3s      <none>            node1.example.com   <none>           <none>
+hello-5b5df85c44-4j4w9   0/1     ContainerCreating   0               3s      <none>            node1.example.com   <none>           <none>
+hello-5b5df85c44-6bfm8   1/1     Running             0               7m14s   192.168.221.18    node2.example.com   <none>           <none>
+hello-5b5df85c44-dqsfg   1/1     Running             1 (4h8m ago)    24h     192.168.221.17    node2.example.com   <none>           <none>
+hello-5b5df85c44-j6nxm   1/1     Running             1 (4h6m ago)    24h     192.168.178.200   node3.example.com   <none>           <none>
+hello-5b5df85c44-ppx75   1/1     Running             0               7m14s   192.168.178.202   node3.example.com   <none>           <none>
+hello-5b5df85c44-vtd8m   1/1     Running             0               7m14s   192.168.178.203   node3.example.com   <none>           <none>
+hello-5b5df85c44-wggxx   1/1     Running             1 (4h8m ago)    24h     192.168.221.12    node2.example.com   <none>           <none>
+hello-5b5df85c44-z7hg8   1/1     Running             0               3m6s    192.168.221.22    node2.example.com   <none>           <none>
+hello-5b5df85c44-zg25s   1/1     Running             0               7m14s   192.168.178.201   node3.example.com   <none>           <none>
+[root@master ~]# 
+
+
+Task:23:CompletionStatus:Satyamev,Chandan,Tejal,Madhumithra,sushandh,Vaishnavi,Kiran,Shubham,Taosif,Nithyanandan,Manoj,sriram,Himanshu
+Gunjan,Kiran
+
+
+06May2026:
+
+Scheduling:
+Task:24
+1. nodeName:
+
+[root@master ~]# vim deploy.yml 
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: myapp
+  name: mydeploy
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: myapp
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: myapp
+    spec:
+      containers:
+      - image: nginx
+        name: nginx
+        resources: {}
+      nodeName: node1.example.com
+status: {}
+[root@master ~]# 
+
+
+[root@master ~]# kubectl create -f deploy.yml
+deployment.apps/mydeploy2 created
+[root@master ~]# 
+
+
+[root@master ~]# kubectl get pod -o wide
+NAME                         READY   STATUS    RESTARTS   AGE   IP               NODE                NOMINATED NODE   READINESS GATES
+mydeploy2-6fc7bf6894-wdcfd   1/1     Running   0          7s    192.168.11.101   node1.example.com   <none>           <none>
+[root@master ~]# kubectl scale --replicas=4 deploy mydeploy2
+deployment.apps/mydeploy2 scaled
+[root@master ~]# kubectl get pod -o wide
+NAME                         READY   STATUS              RESTARTS   AGE   IP               NODE                NOMINATED NODE   READINESS GATES
+mydeploy2-6fc7bf6894-rtz62   1/1     Running             0          4s    192.168.11.103   node1.example.com   <none>           <none>
+mydeploy2-6fc7bf6894-thhj4   0/1     ContainerCreating   0          4s    <none>           node1.example.com   <none>           <none>
+mydeploy2-6fc7bf6894-wdcfd   1/1     Running             0          33s   192.168.11.101   node1.example.com   <none>           <none>
+mydeploy2-6fc7bf6894-wzkpj   0/1     ContainerCreating   0          4s    <none>           node1.example.com   <none>           <none>
+[root@master ~]# kubectl scale --replicas=8 deploy mydeploy2
+deployment.apps/mydeploy2 scaled
+[root@master ~]# kubectl get pod -o wide
+NAME                         READY   STATUS              RESTARTS   AGE   IP               NODE                NOMINATED NODE   READINESS GATES
+mydeploy2-6fc7bf6894-5qdsl   0/1     ContainerCreating   0          1s    <none>           node1.example.com   <none>           <none>
+mydeploy2-6fc7bf6894-hldp7   0/1     ContainerCreating   0          1s    <none>           node1.example.com   <none>           <none>
+mydeploy2-6fc7bf6894-rtz62   1/1     Running             0          16s   192.168.11.103   node1.example.com   <none>           <none>
+mydeploy2-6fc7bf6894-thhj4   1/1     Running             0          16s   192.168.11.104   node1.example.com   <none>           <none>
+mydeploy2-6fc7bf6894-tvbfz   0/1     ContainerCreating   0          1s    <none>           node1.example.com   <none>           <none>
+mydeploy2-6fc7bf6894-wdcfd   1/1     Running             0          45s   192.168.11.101   node1.example.com   <none>           <none>
+mydeploy2-6fc7bf6894-wwwnq   0/1     ContainerCreating   0          1s    <none>           node1.example.com   <none>           <none>
+mydeploy2-6fc7bf6894-wzkpj   1/1     Running             0          16s   192.168.11.102   node1.example.com   <none>           <none>
+[root@master ~]# 
+
+
+Task:24:CompletionStatus: Tejal,Satya,manojmev,Taosif,Madhumithra,Kiran,Himanshu, Andrew, sushandh,Gunjan,Nithyanandan,sriram,Shubham
+Task:25
+nodeSelector:
+
+[root@master ~]# vim deploy.yml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: myapp
+  name: mydeploy
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: myapp
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: myapp
+    spec:
+      containers:
+      - image: nginx
+        name: nginx
+        resources: {}
+      nodeSelector:
+        env: prod
+status: {}
+[root@master ~]# 
+
+Label Node1:
+[root@master ~]# kubectl describe node node1.example.com | head 
+Name:               node1.example.com
+Roles:              worker,workernode
+Labels:             beta.kubernetes.io/arch=amd64
+                    beta.kubernetes.io/os=linux
+                    kubernetes.io/arch=amd64
+                    kubernetes.io/hostname=node1.example.com
+                    kubernetes.io/os=linux
+                    node-role.kubernetes.io/worker=
+                    node-role.kubernetes.io/workernode=
+Annotations:        kubeadm.alpha.kubernetes.io/cri-socket: unix:///var/run/containerd/containerd.sock
+[root@master ~]# kubectl label node node1.example.com env=prod
+node/node1.example.com labeled
+[root@master ~]# kubectl describe node node1.example.com | head 
+Name:               node1.example.com
+Roles:              worker,workernode
+Labels:             beta.kubernetes.io/arch=amd64
+                    beta.kubernetes.io/os=linux
+                    env=prod
+                    kubernetes.io/arch=amd64
+                    kubernetes.io/hostname=node1.example.com
+                    kubernetes.io/os=linux
+                    node-role.kubernetes.io/worker=
+                    node-role.kubernetes.io/workernode=
+[root@master ~]# 
+
+Label Node3:
+
+[root@master ~]# kubectl describe node node3.example.com | head
+Name:               node3.example.com
+Roles:              <none>
+Labels:             beta.kubernetes.io/arch=amd64
+                    beta.kubernetes.io/os=linux
+                    kubernetes.io/arch=amd64
+                    kubernetes.io/hostname=node3.example.com
+                    kubernetes.io/os=linux
+Annotations:        kubeadm.alpha.kubernetes.io/cri-socket: unix:///var/run/containerd/containerd.sock
+                    node.alpha.kubernetes.io/ttl: 0
+                    projectcalico.org/IPv4Address: 10.0.14.4/8
+[root@master ~]# kubectl label node node3.example.com env=prod
+node/node3.example.com labeled
+[root@master ~]# kubectl describe node node3.example.com | head
+Name:               node3.example.com
+Roles:              <none>
+Labels:             beta.kubernetes.io/arch=amd64
+                    beta.kubernetes.io/os=linux
+                    env=prod
+                    kubernetes.io/arch=amd64
+                    kubernetes.io/hostname=node3.example.com
+                    kubernetes.io/os=linux
+Annotations:        kubeadm.alpha.kubernetes.io/cri-socket: unix:///var/run/containerd/containerd.sock
+                    node.alpha.kubernetes.io/ttl: 0
+[root@master ~]# 
+
+
+[root@master ~]# kubectl create -f deploy.yml 
+deployment.apps/mydeploy created
+[root@master ~]# kubectl get pod -o wide
+NAME                       READY   STATUS    RESTARTS   AGE   IP               NODE                NOMINATED NODE   READINESS GATES
+mydeploy-785dd9ff9-swhsb   1/1     Running   0          7s    192.168.11.110   node1.example.com   <none>           <none>
+[root@master ~]# kubectl scale --replicas=4 deploy mydeploy 
+deployment.apps/mydeploy scaled
+
+Note:  The deployment will be either on node1 or node3 - but not on node2
+
+
+[root@master ~]# kubectl get pod -o wide
+NAME                       READY   STATUS              RESTARTS   AGE   IP               NODE                NOMINATED NODE   READINESS GATES
+mydeploy-785dd9ff9-d6hxj   0/1     ContainerCreating   0          3s    <none>           node1.example.com   <none>           <none>
+mydeploy-785dd9ff9-qk74c   0/1     ContainerCreating   0          3s    <none>           node3.example.com   <none>           <none>
+mydeploy-785dd9ff9-swhsb   1/1     Running             0          26s   192.168.11.110   node1.example.com   <none>           <none>
+mydeploy-785dd9ff9-tdqnr   0/1     ContainerCreating   0          3s    <none>           node3.example.com   <none>           <none>
+[root@master ~]# kubectl scale --replicas=10 deploy mydeploy 
+deployment.apps/mydeploy scaled
+[root@master ~]# kubectl get pod -o wide
+NAME                       READY   STATUS              RESTARTS   AGE   IP                NODE                NOMINATED NODE   READINESS GATES
+mydeploy-785dd9ff9-4fw4x   0/1     ContainerCreating   0          2s    <none>            node3.example.com   <none>           <none>
+mydeploy-785dd9ff9-5x95s   0/1     ContainerCreating   0          2s    <none>            node1.example.com   <none>           <none>
+mydeploy-785dd9ff9-d6hxj   1/1     Running             0          13s   192.168.11.109    node1.example.com   <none>           <none>
+mydeploy-785dd9ff9-fttd5   0/1     ContainerCreating   0          2s    <none>            node3.example.com   <none>           <none>
+mydeploy-785dd9ff9-q5jhv   0/1     ContainerCreating   0          2s    <none>            node1.example.com   <none>           <none>
+mydeploy-785dd9ff9-qf2vh   0/1     ContainerCreating   0          2s    <none>            node1.example.com   <none>           <none>
+mydeploy-785dd9ff9-qk74c   1/1     Running             0          13s   192.168.178.221   node3.example.com   <none>           <none>
+mydeploy-785dd9ff9-swhsb   1/1     Running             0          36s   192.168.11.110    node1.example.com   <none>           <none>
+mydeploy-785dd9ff9-tdqnr   1/1     Running             0          13s   192.168.178.220   node3.example.com   <none>           <none>
+mydeploy-785dd9ff9-xxc9l   0/1     ContainerCreating   0          2s    <none>            node3.example.com   <none>           <none>
+[root@master ~]#
+
+
+Task:25:CompletionStatus:Kiran,Satyamev,Tejal,Taosif,Himanshu,Madhumithra,sushandh,Vaishnavi,Shubham,Manoj,Gunjan,Nithyananddan, Andrew, 
+Reference:
+kubectl config set-context $(kubectl config current-context) --namespace=default
+
+Task:26
+
+[root@master ~]# vim deploy.yml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: myapp
+  name: mydeploy
+spec:
+  replicas: 4
+  selector:
+    matchLabels:
+      app: myapp
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: myapp
+    spec:
+      containers:
+      - image: nginx
+        name: nginx
+        resources: {}
+      nodeSelector:
+           color: green
+status: {}
+[root@master ~]# 
+
+
+[root@master ~]# kubectl describe node node2.example.com | head
+Name:               node2.example.com
+Roles:              worker,workernode
+Labels:             beta.kubernetes.io/arch=amd64
+                    beta.kubernetes.io/os=linux
+                    color=green
+                    kubernetes.io/arch=amd64
+                    kubernetes.io/hostname=node2.example.com
+                    kubernetes.io/os=linux
+                    node-role.kubernetes.io/worker=
+                    node-role.kubernetes.io/workernode=
+[root@master ~]#
+
+[root@master ~]# kubectl create -f deploy.yml
+[root@master ~]# kubectl get pod -o wide
+NAME                        READY   STATUS    RESTARTS   AGE   IP               NODE                NOMINATED NODE   READINESS GATES
+mydeploy-5779cf7b85-6cwzv   1/1     Running   0          12s   192.168.221.46   node2.example.com   <none>           <none>
+[root@master ~]# kubectl scale --replicas=4 deploy mydeploy
+deployment.apps/mydeploy scaled
+[root@master ~]# kubectl get pod -o wide
+NAME                        READY   STATUS              RESTARTS   AGE   IP               NODE                NOMINATED NODE   READINESS GATES
+mydeploy-5779cf7b85-2dcll   0/1     ContainerCreating   0          2s    <none>           node2.example.com   <none>           <none>
+mydeploy-5779cf7b85-6cwzv   1/1     Running             0          28s   192.168.221.46   node2.example.com   <none>           <none>
+mydeploy-5779cf7b85-9rwdk   0/1     ContainerCreating   0          2s    <none>           node2.example.com   <none>           <none>
+mydeploy-5779cf7b85-m7kxf   0/1     ContainerCreating   0          2s    <none>           node2.example.com   <none>           <none>
+[root@master ~]#
+
+
+Removing the nodeSelector:
+    
+[root@master ~]# vim deploy.yml 
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: myapp
+  name: mydeploy2
+spec:
+  replicas: 4
+  selector:
+    matchLabels:
+      app: myapp
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: myapp
+    spec:
+      containers:
+      - image: nginx
+        name: nginx
+        resources: {}
+status: {}
+[root@master ~]# 
+
+
+[root@master ~]# kubectl get pod -o wide | grep mydeploy2
+mydeploy2-5b5df85c44-5jwtj   1/1     Running   0          13s     192.168.11.114    node1.example.com   <none>           <none>
+mydeploy2-5b5df85c44-bmdwv   1/1     Running   0          13s     192.168.178.225   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-p72pn   1/1     Running   0          13s     192.168.178.226   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-qdpw5   1/1     Running   0          13s     192.168.221.53    node2.example.com   <none>           <none>   ---->  Eventhough node2 is Labeled, other deployment is happening
+[root@master ~]# 
+
+
+[root@master ~]# kubectl describe node node1.example.com | head
+Name:               node1.example.com
+Roles:              worker,workernode
+Labels:             beta.kubernetes.io/arch=amd64
+                    beta.kubernetes.io/os=linux
+                    color=red
+                    env=prod
+                    kubernetes.io/arch=amd64
+                    kubernetes.io/hostname=node1.example.com
+                    kubernetes.io/os=linux
+                    node-role.kubernetes.io/worker=
+[root@master ~]# kubectl describe node node2.example.com | head
+Name:               node2.example.com
+Roles:              worker,workernode
+Labels:             beta.kubernetes.io/arch=amd64
+                    beta.kubernetes.io/os=linux
+                    color=green
+                    kubernetes.io/arch=amd64
+                    kubernetes.io/hostname=node2.example.com
+                    kubernetes.io/os=linux
+                    node-role.kubernetes.io/worker=
+                    node-role.kubernetes.io/workernode=
+[root@master ~]# kubectl describe node node3.example.com | head
+Name:               node3.example.com
+Roles:              <none>
+Labels:             beta.kubernetes.io/arch=amd64
+                    beta.kubernetes.io/os=linux
+                    env=prod
+                    kubernetes.io/arch=amd64
+                    kubernetes.io/hostname=node3.example.com
+                    kubernetes.io/os=linux
+Annotations:        kubeadm.alpha.kubernetes.io/cri-socket: unix:///var/run/containerd/containerd.sock
+                    node.alpha.kubernetes.io/ttl: 0
+[root@master ~]# 
+
+
+Note: Now the deployments are happening in all nodes irrespective of the Labels
+
+
+Taints/Tolerance:
+
+Remove all Labels:
+
+Node1:
+[root@master ~]# kubectl describe node node1.example.com | head
+Name:               node1.example.com
+Roles:              worker,workernode
+Labels:             beta.kubernetes.io/arch=amd64
+                    beta.kubernetes.io/os=linux
+                    color=red
+                    env=prod
+                    kubernetes.io/arch=amd64
+                    kubernetes.io/hostname=node1.example.com
+                    kubernetes.io/os=linux
+                    node-role.kubernetes.io/worker=
+[root@master ~]# kubectl label node node1.example.com color-
+node/node1.example.com unlabeled
+[root@master ~]# kubectl label node node1.example.com env-
+node/node1.example.com unlabeled
+[root@master ~]# 
+
+Node2:
+[root@master ~]# kubectl describe node node2.example.com | head
+Name:               node2.example.com
+Roles:              worker,workernode
+Labels:             beta.kubernetes.io/arch=amd64
+                    beta.kubernetes.io/os=linux
+                    color=green
+                    kubernetes.io/arch=amd64
+                    kubernetes.io/hostname=node2.example.com
+                    kubernetes.io/os=linux
+                    node-role.kubernetes.io/worker=
+                    node-role.kubernetes.io/workernode=
+
+[root@master ~]# kubectl label node node2.example.com color-
+node/node2.example.com unlabeled
+[root@master ~]#
+
+Node3:
+[root@master ~]# kubectl describe node node3.example.com | head
+Name:               node3.example.com
+Roles:              <none>
+Labels:             beta.kubernetes.io/arch=amd64
+                    beta.kubernetes.io/os=linux
+                    env=prod
+                    kubernetes.io/arch=amd64
+                    kubernetes.io/hostname=node3.example.com
+                    kubernetes.io/os=linux
+Annotations:        kubeadm.alpha.kubernetes.io/cri-socket: unix:///var/run/containerd/containerd.sock
+                    node.alpha.kubernetes.io/ttl: 0
+[root@master ~]# kubectl label node node3.example.com env-
+node/node3.example.com unlabeled
+[root@master ~]# 
+
+
+Deployment
+
+[root@master ~]# vim deploy.yml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: myapp
+  name: mydeploy2
+spec:
+  replicas: 4
+  selector:
+    matchLabels:
+      app: myapp
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: myapp
+    spec:
+      containers:
+      - image: nginx
+        name: nginx
+        resources: {}
+status: {}
+[root@master ~]# 
+
+
+1.NoSchedule:
+
+[root@master ~]# kubectl taint node node1.example.com region=high:NoSchedule
+node/node1.example.com tainted
+[root@master ~]# kubectl describe node node1.example.com 
+Name:               node1.example.com
+Roles:              worker,workernode
+Labels:             beta.kubernetes.io/arch=amd64
+                    beta.kubernetes.io/os=linux
+                    kubernetes.io/arch=amd64
+                    kubernetes.io/hostname=node1.example.com
+                    kubernetes.io/os=linux
+                    node-role.kubernetes.io/worker=
+                    node-role.kubernetes.io/workernode=
+Annotations:        kubeadm.alpha.kubernetes.io/cri-socket: unix:///var/run/containerd/containerd.sock
+                    node.alpha.kubernetes.io/ttl: 0
+                    projectcalico.org/IPv4Address: 10.0.14.2/8
+                    projectcalico.org/IPv4IPIPTunnelAddr: 192.168.11.64
+                    volumes.kubernetes.io/controller-managed-attach-detach: true
+CreationTimestamp:  Wed, 29 Apr 2026 03:00:11 -0400
+Taints:             region=high:NoSchedule
+Unschedulable:      false
+Lease:
+-------- -------------------
+
+[root@master ~]# kubectl describe node node1.example.com | grep Taint
+Taints:             region=high:NoSchedule
+[root@master ~]#
+
+
+[root@master ~]# kubectl get pod -o wide
+No resources found in default namespace.
+[root@master ~]# kubectl create -f deploy.yml 
+deployment.apps/mydeploy2 created
+[root@master ~]# kubectl get pod -o wide
+NAME                         READY   STATUS              RESTARTS   AGE   IP                NODE                NOMINATED NODE   READINESS GATES
+mydeploy2-5b5df85c44-57m6j   1/1     Running             0          6s    192.168.178.227   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-5vh9n   1/1     Running             0          6s    192.168.221.54    node2.example.com   <none>           <none>
+mydeploy2-5b5df85c44-6pt4b   0/1     ContainerCreating   0          6s    <none>            node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-vnjm4   1/1     Running             0          6s    192.168.221.49    node2.example.com   <none>           <none>
+
+Note: Deployment is happening in all the nodes except node1.example.com as its tainted.
+
+[root@master ~]# kubectl scale --replicas=8 deploy mydeploy2
+deployment.apps/mydeploy2 scaled
+[root@master ~]# kubectl get pod -o wide
+NAME                         READY   STATUS              RESTARTS   AGE   IP                NODE                NOMINATED NODE   READINESS GATES
+mydeploy2-5b5df85c44-2qkmm   1/1     Running             0          5s    192.168.221.51    node2.example.com   <none>           <none>
+mydeploy2-5b5df85c44-57m6j   1/1     Running             0          40s   192.168.178.227   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-5vh9n   1/1     Running             0          40s   192.168.221.54    node2.example.com   <none>           <none>
+mydeploy2-5b5df85c44-6pt4b   1/1     Running             0          40s   192.168.178.228   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-fc454   1/1     Running             0          4s    192.168.221.55    node2.example.com   <none>           <none>
+mydeploy2-5b5df85c44-qtq2k   1/1     Running             0          5s    192.168.178.229   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-t7z2s   0/1     ContainerCreating   0          5s    <none>            node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-vnjm4   1/1     Running             0          40s   192.168.221.49    node2.example.com   <none>           <none>
+[root@master ~]# 
+
+Note:  In the above deployment, it will not consume node1.example.com as we have tainted node1
+
+
+Task:26:CompletionStatus: Madhumithra,Satyamev,Tejal,Taosif,Nithyanandan,Kiran, Gunjan,Himanshu,sriram,Shubham,Manoj,sushandh
+
+
+2. NoExecute:
+Task:27
+
+[root@master ~]# kubectl get pod -o wide
+NAME                         READY   STATUS    RESTARTS   AGE   IP                NODE                NOMINATED NODE   READINESS GATES
+mydeploy2-5b5df85c44-2qkmm   1/1     Running   0          39m   192.168.221.51    node2.example.com   <none>           <none>
+mydeploy2-5b5df85c44-57m6j   1/1     Running   0          40m   192.168.178.227   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-5vh9n   1/1     Running   0          40m   192.168.221.54    node2.example.com   <none>           <none>
+mydeploy2-5b5df85c44-6pt4b   1/1     Running   0          40m   192.168.178.228   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-fc454   1/1     Running   0          39m   192.168.221.55    node2.example.com   <none>           <none>
+mydeploy2-5b5df85c44-qtq2k   1/1     Running   0          39m   192.168.178.229   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-t7z2s   1/1     Running   0          39m   192.168.178.230   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-vnjm4   1/1     Running   0          40m   192.168.221.49    node2.example.com   <none>           <none>
+[root@master ~]# kubectl get pod -o wide | grep node2
+mydeploy2-5b5df85c44-2qkmm   1/1     Running   0          39m   192.168.221.51    node2.example.com   <none>           <none>
+mydeploy2-5b5df85c44-5vh9n   1/1     Running   0          40m   192.168.221.54    node2.example.com   <none>           <none>
+mydeploy2-5b5df85c44-fc454   1/1     Running   0          39m   192.168.221.55    node2.example.com   <none>           <none>
+mydeploy2-5b5df85c44-vnjm4   1/1     Running   0          40m   192.168.221.49    node2.example.com   <none>           <none>
+
+[root@master ~]# kubectl taint node node2.example.com region=low:NoExecute
+node/node2.example.com tainted
+[root@master ~]# kubectl describe node node2.example.com | grep Taint
+Taints:             region=low:NoExecute
+[root@master ~]# 
+
+[root@master ~]# kubectl get pod -o wide |grep node2
+[root@master ~]# kubectl get pod -o wide 
+NAME                         READY   STATUS    RESTARTS   AGE   IP                NODE                NOMINATED NODE   READINESS GATES
+mydeploy2-5b5df85c44-57m6j   1/1     Running   0          45m   192.168.178.227   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-6pt4b   1/1     Running   0          45m   192.168.178.228   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-fmxch   1/1     Running   0          56s   192.168.178.234   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-hkwt5   1/1     Running   0          56s   192.168.178.231   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-mv9xt   1/1     Running   0          56s   192.168.178.233   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-qtq2k   1/1     Running   0          44m   192.168.178.229   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-t7z2s   1/1     Running   0          44m   192.168.178.230   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-t98kd   1/1     Running   0          56s   192.168.178.232   node3.example.com   <none>           <none>
+[root@master ~]# 
+
+Note: None of the pods are running in node2.example.com as the taint effect "NoExecute" will evict the pods which are not statisfying the rules.  
+
+3. PreferNoSchedule:
+
+[root@master ~]# kubectl describe node node1.example.com | grep Taint
+Taints:             region=high:NoSchedule
+[root@master ~]# kubectl describe node node2.example.com | grep Taint
+Taints:             region=low:NoExecute
+[root@master ~]# kubectl describe node node3.example.com | grep Taint
+Taints:             <none>
+[root@master ~]# kubectl taint node node3.example.com region=mid:NoExecute
+node/node3.example.com tainted
+[root@master ~]# kubectl get pod -o wide 
+NAME                         READY   STATUS    RESTARTS   AGE   IP       NODE     NOMINATED NODE   READINESS GATES
+mydeploy2-5b5df85c44-9vhk9   0/1     Pending   0          5s    <none>   <none>   <none>           <none>
+mydeploy2-5b5df85c44-frdx9   0/1     Pending   0          5s    <none>   <none>   <none>           <none>
+mydeploy2-5b5df85c44-hbjcm   0/1     Pending   0          5s    <none>   <none>   <none>           <none>
+mydeploy2-5b5df85c44-jxglp   0/1     Pending   0          5s    <none>   <none>   <none>           <none>
+mydeploy2-5b5df85c44-nxs9m   0/1     Pending   0          5s    <none>   <none>   <none>           <none>
+mydeploy2-5b5df85c44-vhp6l   0/1     Pending   0          5s    <none>   <none>   <none>           <none>
+mydeploy2-5b5df85c44-wbhjt   0/1     Pending   0          5s    <none>   <none>   <none>           <none>
+mydeploy2-5b5df85c44-zsptp   0/1     Pending   0          5s    <none>   <none>   <none>           <none>
+[root@master ~]# 
+
+
+[root@master ~]# kubectl describe node node1.example.com | grep Taint
+Taints:             region=high:NoSchedule
+[root@master ~]# kubectl describe node node2.example.com | grep Taint
+Taints:             region=low:NoExecute
+[root@master ~]# kubectl describe node node3.example.com | grep Taint
+
+[root@master ~]# kubectl taint node node3.example.com region-
+node/node3.example.com untainted
+[root@master ~]# kubectl taint node node3.example.com region=mid:PreferNoSchedule 
+node/node3.example.com tainted
+[root@master ~]# kubectl describe node node3.example.com | grep Taint
+Taints:             region=mid:PreferNoSchedule
+
+[root@master ~]# kubectl get pod -o wide
+NAME                         READY   STATUS    RESTARTS   AGE     IP                NODE                NOMINATED NODE   READINESS GATES
+mydeploy2-5b5df85c44-9vhk9   1/1     Running   0          3m22s   192.168.178.238   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-frdx9   1/1     Running   0          3m22s   192.168.178.242   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-hbjcm   1/1     Running   0          3m22s   192.168.178.241   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-jxglp   1/1     Running   0          3m22s   192.168.178.240   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-nxs9m   1/1     Running   0          3m22s   192.168.178.235   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-vhp6l   1/1     Running   0          3m22s   192.168.178.237   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-wbhjt   1/1     Running   0          3m22s   192.168.178.239   node3.example.com   <none>           <none>
+mydeploy2-5b5df85c44-zsptp   1/1     Running   0          3m22s   192.168.178.236   node3.example.com   <none>           <none>
+[root@master ~]# 
+
+Note:  All the pending pods are now moved to node3 as the taint effect says "PreferNoSchedule".
+
+
+Tolerance:
+
+[root@master ~]# kubectl describe node node1.example.com | grep Taint
+Taints:             region=high:NoSchedule
+[root@master ~]# kubectl describe node node2.example.com | grep Taint
+Taints:             region=low:NoExecute
+[root@master ~]# kubectl describe node node3.example.com | grep Taint
+Taints:             region=mid:PreferNoSchedule
+[root@master ~]# 
+
+[root@master ~]# kubectl get deploy
+NAME        READY   UP-TO-DATE   AVAILABLE   AGE
+mydeploy2   8/8     8            8           62m
+[root@master ~]# kubectl delete deploy mydeploy2
+deployment.apps "mydeploy2" deleted
+[root@master ~]# kubectl get deploy
+No resources found in default namespace.
+[root@master ~]# vim deploy.yml 
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: myapp
+  name: mydeploy2
+spec:
+  replicas: 4
+  selector:
+    matchLabels:
+      app: myapp
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: myapp
+    spec:
+      containers:
+      - image: nginx
+        name: nginx
+        resources: {}
+      tolerations:
+      - key: "region"
+        operator: "Equal"
+        value: "high"
+        effect: "NoSchedule"
+        
+status: {}
+
+[root@master ~]# kubectl create -f deploy.yml
+deployment.apps/mydeploy2 created
+
+[root@master ~]# kubectl get deploy
+NAME        READY   UP-TO-DATE   AVAILABLE   AGE
+mydeploy2   4/4     4            4           10s
+
+[root@master ~]# kubectl get pod -o wide
+NAME                         READY   STATUS    RESTARTS   AGE   IP               NODE                NOMINATED NODE   READINESS GATES
+mydeploy2-5ddf7568c5-cpbtf   1/1     Running   0          20s   192.168.11.117   node1.example.com   <none>           <none>
+mydeploy2-5ddf7568c5-lsvzm   1/1     Running   0          20s   192.168.11.112   node1.example.com   <none>           <none>
+mydeploy2-5ddf7568c5-p56qr   1/1     Running   0          20s   192.168.11.97    node1.example.com   <none>           <none>
+mydeploy2-5ddf7568c5-wf5cq   1/1     Running   0          20s   192.168.11.119   node1.example.com   <none>           <none>
+[root@master ~]# 
+
+
+Task:27:CompletionStatus:Madhumithra,Himanshu,Shubham S,Manoj,Taosif
+
+
+
+07May2026: 
+Mid Assessment:  MCQ  & Lab Assessment
+
+CompletionStatus:Nithyanandan Krishnan, Chandan ( But unable to upload file), Manoj, Shreyash Lavhate,Madhumithra, Andrew, Taosif,Himanshu,K
+
+08May2026:
+
+Task:28
+Storage:
+    
+StorageClass:
+
+[root@master ~]# vim storageclass.yml 
+apiVersion: storage.k8s.io/v1 
+kind: StorageClass 
+metadata: 
+  name: localdisk 
+provisioner: kubernetes.io/no-provisioner
+allowVolumeExpansion: true
+[root@master ~]# 
+
+[root@master ~]# kubectl create -f storageclass.yml 
+storageclass.storage.k8s.io/localdisk created
+[root@master ~]# kubectl get sc
+NAME        PROVISIONER                    RECLAIMPOLICY   VOLUMEBINDINGMODE   ALLOWVOLUMEEXPANSION   AGE
+localdisk   kubernetes.io/no-provisioner   Delete          Immediate           true                   1s
+[root@master ~]# kubectl get sc localdisk -o yaml
+allowVolumeExpansion: true
+apiVersion: storage.k8s.io/v1
+kind: StorageClass
+metadata:
+  creationTimestamp: "2026-05-08T04:13:06Z"
+  name: localdisk
+  resourceVersion: "396542"
+  uid: 08e44a08-2607-43cd-985e-e1ff01335219
+provisioner: kubernetes.io/no-provisioner
+reclaimPolicy: Delete
+volumeBindingMode: Immediate
+[root@master ~]# 
+
+Task:28:CompletionStatus:Madhumithra,Taosif,Manoj,Satyamev,sushandh, Andrew, Vaishnavi,Himanshu,Nithyanandan Krishnan,Gunjan,sriram,Kiran
+
+Task:29
+Persistent Volume:
+
+[root@master ~]# vim pv.yml  
+kind: PersistentVolume  
+apiVersion: v1  
+metadata:  
+   name: host-pv  
+spec:  
+   storageClassName: localdisk 
+   persistentVolumeReclaimPolicy: Recycle  
+   capacity:  
+      storage: 1Gi  
+   accessModes:  
+      - ReadWriteOnce  
+   hostPath:  
+      path: /var/output  
+[root@master ~]#  
+
+[root@master ~]# kubectl create -f persistentvolume.yml
+Warning: spec.persistentVolumeReclaimPolicy: The Recycle reclaim policy is deprecated. Instead, the recommended approach is to use dynamic provisioning.
+persistentvolume/host-pv created
+[root@master ~]# kubectl get pv
+NAME      CAPACITY   ACCESS MODES   RECLAIM POLICY   STATUS      CLAIM   STORAGECLASS   VOLUMEATTRIBUTESCLASS   REASON   AGE
+host-pv   1Gi        RWO            Recycle          Available           localdisk      <unset>                          19s
+[root@master ~]# kubectl get sc
+NAME        PROVISIONER                    RECLAIMPOLICY   VOLUMEBINDINGMODE   ALLOWVOLUMEEXPANSION   AGE
+localdisk   kubernetes.io/no-provisioner   Delete          Immediate           true                   40m
+[root@master ~]#
+
+
+[root@master ~]# kubectl get pv host-pv -o yaml
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  creationTimestamp: "2026-05-08T04:53:03Z"
+  finalizers:
+  - kubernetes.io/pv-protection
+  name: host-pv
+  resourceVersion: "400387"
+  uid: 17df9d68-13fc-4e9e-b5c0-4acc102b9fb6
+spec:
+  accessModes:
+  - ReadWriteOnce
+  capacity:
+    storage: 1Gi
+  hostPath:
+    path: /var/output
+    type: ""
+  persistentVolumeReclaimPolicy: Recycle
+  storageClassName: localdisk
+  volumeMode: Filesystem
+status:
+  lastPhaseTransitionTime: "2026-05-08T04:53:03Z"
+  phase: Available
+[root@master ~]#
+
+
+Task:29:CompletionStatus: Madhumithra,Manoj,Taosif,Vaishnavi,Satyamev,N, Andrew, Nithyanandan Krishnan,sushandh,Himanshu,Gunjan,sriramKiran
+Task:30
+
+PVC:
+
+[root@master ~]# vim pvc.yml  
+apiVersion: v1  
+kind: PersistentVolumeClaim  
+metadata:  
+   name: host-pvc  
+spec:  
+   storageClassName: localdisk  
+   accessModes:  
+      - ReadWriteOnce  
+   resources:  
+      requests:  
+         storage: 500Mi 
+[root@master ~]#  
+
+[root@master ~]# kubectl get pv
+NAME      CAPACITY   ACCESS MODES   RECLAIM POLICY   STATUS      CLAIM   STORAGECLASS   VOLUMEATTRIBUTESCLASS   REASON   AGE
+host-pv   1Gi        RWO            Recycle          Available           localdisk      <unset>                          19s
+[root@master ~]# kubectl get sc
+NAME        PROVISIONER                    RECLAIMPOLICY   VOLUMEBINDINGMODE   ALLOWVOLUMEEXPANSION   AGE
+localdisk   kubernetes.io/no-provisioner   Delete          Immediate           true                   40m
+[root@master ~]#
+
+
+[root@master ~]# kubectl create -f pvc.yml 
+persistentvolumeclaim/host-pvc created
+[root@master ~]# kubectl get pvc
+NAME       STATUS   VOLUME    CAPACITY   ACCESS MODES   STORAGECLASS   VOLUMEATTRIBUTESCLASS   AGE
+host-pvc   Bound    host-pv   1Gi        RWO            localdisk      <unset>                 5s
+[root@master ~]# kubectl get pv\
+> ^C
+[root@master ~]# kubectl get pv
+NAME      CAPACITY   ACCESS MODES   RECLAIM POLICY   STATUS   CLAIM           STORAGECLASS   VOLUMEATTRIBUTESCLASS   REASON   AGE
+host-pv   1Gi        RWO            Recycle          Bound    feds/host-pvc   localdisk      <unset>                          61m
+[root@master ~]# kubectl get pvc host-pvc -o yaml 
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  annotations:
+    pv.kubernetes.io/bind-completed: "yes"
+    pv.kubernetes.io/bound-by-controller: "yes"
+  creationTimestamp: "2026-05-08T05:54:06Z"
+  finalizers:
+  - kubernetes.io/pvc-protection
+  name: host-pvc
+  namespace: feds
+  resourceVersion: "406264"
+  uid: 0833fb5a-9757-43c1-a360-2cb70f9706c4
+spec:
+  accessModes:
+  - ReadWriteOnce
+  resources:
+    requests:
+      storage: 500Mi
+  storageClassName: localdisk
+  volumeMode: Filesystem
+  volumeName: host-pv
+status:
+  accessModes:
+  - ReadWriteOnce
+  capacity:
+    storage: 1Gi
+  phase: Bound
+
+[root@master ~]# kubectl get sc
+NAME        PROVISIONER                    RECLAIMPOLICY   VOLUMEBINDINGMODE   ALLOWVOLUMEEXPANSION   AGE
+localdisk   kubernetes.io/no-provisioner   Delete          Immediate           true                   103m
+[root@master ~]# kubectl get pv
+NAME      CAPACITY   ACCESS MODES   RECLAIM POLICY   STATUS   CLAIM           STORAGECLASS   VOLUMEATTRIBUTESCLASS   REASON   AGE
+host-pv   1Gi        RWO            Recycle          Bound    feds/host-pvc   localdisk      <unset>                          64m
+[root@master ~]# 
+
+
+PVC is project scoped:
+
+[root@master ~]# kubectl config get-contexts
+CURRENT   NAME                          CLUSTER      AUTHINFO           NAMESPACE
+*         kubernetes-admin@kubernetes   kubernetes   kubernetes-admin   feds
+[root@master ~]# kubectl get sc
+NAME        PROVISIONER                    RECLAIMPOLICY   VOLUMEBINDINGMODE   ALLOWVOLUMEEXPANSION   AGE
+localdisk   kubernetes.io/no-provisioner   Delete          Immediate           true                   113m
+[root@master ~]# kubectl get pv
+NAME      CAPACITY   ACCESS MODES   RECLAIM POLICY   STATUS   CLAIM           STORAGECLASS   VOLUMEATTRIBUTESCLASS   REASON   AGE
+host-pv   1Gi        RWO            Recycle          Bound    feds/host-pvc   localdisk      <unset>                          73m
+[root@master ~]# kubectl get pvc
+NAME       STATUS   VOLUME    CAPACITY   ACCESS MODES   STORAGECLASS   VOLUMEATTRIBUTESCLASS   AGE
+host-pvc   Bound    host-pv   1Gi        RWO            localdisk      <unset>                 12m
+[root@master ~]# kubectl config set-context $(kubectl config current-context) --namespace=default
+Context "kubernetes-admin@kubernetes" modified.
+[root@master ~]# kubectl config get-contexts
+CURRENT   NAME                          CLUSTER      AUTHINFO           NAMESPACE
+*         kubernetes-admin@kubernetes   kubernetes   kubernetes-admin   default
+[root@master ~]# kubectl get sc
+NAME        PROVISIONER                    RECLAIMPOLICY   VOLUMEBINDINGMODE   ALLOWVOLUMEEXPANSION   AGE
+localdisk   kubernetes.io/no-provisioner   Delete          Immediate           true                   113m
+[root@master ~]# kubectl get pv
+NAME      CAPACITY   ACCESS MODES   RECLAIM POLICY   STATUS   CLAIM           STORAGECLASS   VOLUMEATTRIBUTESCLASS   REASON   AGE
+host-pv   1Gi        RWO            Recycle          Bound    feds/host-pvc   localdisk      <unset>                          73m
+[root@master ~]# kubectl get pvc
+No resources found in default namespace.
+[root@master ~]# 
+
+
+Task:30:CompletionStatus: Satyamev ,Manoj,Taosif ,sushandh,Ma Andrew, Nithyanandan Krishnan,Gunjan,Himanshu,sriram,Vaishnavi
+Task:31
+
+[root@master ~]# vim storage-dep.yml
+apiVersion: apps/v1 
+kind: Deployment 
+metadata:  
+  name: storage-dep 
+  labels: 
+    app: myapp 
+    type: front-end 
+spec: 
+  template: 
+    metadata: 
+      name: myapp-dep-pod 
+      labels: 
+        app: storage-dep 
+        type: front-end 
+    spec: 
+      containers: 
+      - image: busybox 
+        name: busycont 
+        command: ['sh', '-c', 'while true; do echo Success! >> /output/success.txt; sleep 5; done']  
+        volumeMounts: 
+        - name: pv-storage 
+          mountPath: /output  
+      volumes: 
+      - name: pv-storage 
+        persistentVolumeClaim: 
+          claimName: host-pvc 
+  replicas: 1 
+  selector: 
+    matchLabels: 
+      type: front-end 
+[root@master ~]# 
+
+
+[root@master ~]# kubectl config get-contexts
+CURRENT   NAME                          CLUSTER      AUTHINFO           NAMESPACE
+*         kubernetes-admin@kubernetes   kubernetes   kubernetes-admin   feds
+[root@master ~]# kubectl get pvc
+NAME       STATUS   VOLUME    CAPACITY   ACCESS MODES   STORAGECLASS   VOLUMEATTRIBUTESCLASS   AGE
+host-pvc   Bound    host-pv   1Gi        RWO            localdisk      <unset>                 64m
+[root@master ~]# kubectl create -f storage-dep.yml 
+deployment.apps/storage-dep created
+[root@master ~]#
+
+
+[root@master ~]# kubectl get pod
+NAME                           READY   STATUS    RESTARTS   AGE
+storage-dep-7b5dfb75d6-b2kzv   1/1     Running   0          31s
+[root@master ~]# kubectl get deploy
+NAME          READY   UP-TO-DATE   AVAILABLE   AGE
+storage-dep   1/1     1            1           35s
+[root@master ~]# kubectl get pod
+NAME                           READY   STATUS    RESTARTS   AGE
+storage-dep-7b5dfb75d6-b2kzv   1/1     Running   0          36s
+[root@master ~]# kubectl get pod -o wide
+NAME                           READY   STATUS    RESTARTS   AGE   IP                NODE                NOMINATED NODE   READINESS GATES
+storage-dep-7b5dfb75d6-b2kzv   1/1     Running   0          57s   192.168.178.197   node3.example.com   <none>           <none>
+[root@master ~]#
+
+
+Verify from Node3 (in my case)
+[root@node3 ~]# cd /var/output
+[root@node3 output]# ls
+success.txt
+[root@node3 output]# cat success.txt 
+Success!
+Success!
+Success!
+Success!
+Success!
+Success!
+--------
+Success!
+[root@node3 output]# wc -l success.txt
+17 success.txt
+[root@node3 output]# wc -l success.txt
+17 success.txt
+
+
+Verify from the pod:
+
+[root@master ~]# kubectl get pod -o wide
+NAME                           READY   STATUS    RESTARTS   AGE   IP                NODE                NOMINATED NODE   READINESS GATES
+storage-dep-7b5dfb75d6-b2kzv   1/1     Running   0          57s   192.168.178.197   node3.example.com   <none>           <none>
+[root@master ~]# kubectl exec -it storage-dep-7b5dfb75d6-b2kzv -- sh
+/ # 
+/ # hostname
+storage-dep-7b5dfb75d6-b2kzv
+/ # 
+/ # cd /output
+/output # ls
+success.txt
+/output # wc -l success.txt 
+40 success.txt
+/output # wc -l success.txt 
+41 success.txt
+
+Task:31:CompletionStatus:Madhumithra,Nithyanandan Krishnan,Taosif,Himanshu,sushandh, Andrew, Satyamev,sriram,Vaishnavi
+
+11May26:
+
+Task:32
+===========================
+Requests/Limits Resources:
+ ========================= 
+ 
+ [root@master ~]# kubectl create deployment my-deployment --image=nginx  --dry-run=client  -o yaml  > resdeploy.yml
+ [root@master ~]# vim resdeploy.yml
+ apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: my-deployment
+  name: my-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: my-deployment
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: my-deployment
+    spec:
+      containers:
+      - image: nginx
+        name: nginx
+        resources:    ---->>>> remove the "{}" and type below lines
+          limits:
+            cpu: 200m
+            memory: 200Mi
+          requests:
+            cpu: 100m
+            memory: 100Mi
+status: {}
+[root@master ~]#
+
+ 
+[root@master ~]# kubectl create -f resdeploy.yml
+deployment.apps/res-deploy created
+[root@master ~]# 
+
+[root@master ~]# kubectl get deploy
+NAME         READY   UP-TO-DATE   AVAILABLE   AGE
+res-deploy   4/4     4            4           19s
+[root@master ~]# 
+
+[root@master ~]# kubectl get pod 
+NAME                          READY   STATUS    RESTARTS   AGE
+res-deploy-644b7f669b-hlwnv   1/1     Running   0          95s
+res-deploy-644b7f669b-kgx67   1/1     Running   0          95s
+res-deploy-644b7f669b-ktkfk   1/1     Running   0          95s
+res-deploy-644b7f669b-n9qm5   1/1     Running   0          95s
+[root@master ~]# 
+
+[root@master ~]# kubectl scale --replicas=1 deploy/resdeploy 
+deployment.apps/res-deploy scaled
+[root@master ~]# kubectl get pod
+NAME                          READY   STATUS    RESTARTS   AGE
+res-deploy-644b7f669b-ktkfk   1/1     Running   0          2m47s
+[root@master ~]# 
+
+
+
+[root@master ~]# kubectl top node
+error: Metrics API not available
+[root@master ~]#
+ 
+Use the below commands to install Metrics in Kubernetes:
+====================================================================================================
+To Create Metric in Kubernetes:    
+[root@master ~]#kubectl apply -f https://github.com/kubernetes-sigs/metrics-server/releases/latest/download/components.yaml
+ Apply Patch:
+[root@master ~]#kubectl patch deployment metrics-server -n kube-system --type='json' -p='[
+  { "op": "add", "path": "/spec/template/spec/hostNetwork", "value": true },
+  { "op": "replace", "path": "/spec/template/spec/containers/0/args", "value": [
+    "--cert-dir=/tmp",
+    "--secure-port=4443",
+    "--kubelet-preferred-address-types=InternalIP,ExternalIP,Hostname",
+    "--kubelet-use-node-status-port",
+    "--metric-resolution=15s",
+    "--kubelet-insecure-tls"
+  ] },
+  { "op": "replace", "path": "/spec/template/spec/containers/0/ports/0/containerPort", "value": 4443 }
+]'
+ 
+ 
+[root@master ~]# kubectl get pods -n kube-system -l k8s-app=metrics-server
+[root@master ~]# kubectl get apiservices | grep metrics
+ 
+==============================================================================================================
+ 
+[root@master ~]# kubectl top node 
+NAME                 CPU(cores)   CPU%   MEMORY(bytes)   MEMORY%   
+master.example.com   441m         22%    3490Mi          55%       
+node1.example.com    26m          1%     2284Mi          64%       
+node2.example.com    81m          4%     2402Mi          52%       
+node3.example.com    20m          1%     676Mi           43%       
+[root@master ~]# 
+
+[root@master ~]# kubectl describe node node1.example.com 
+Name:               node1.example.com
+Roles:              worker,workernode
+Labels:             beta.kubernetes.io/arch=amd64
+                    beta.kubernetes.io/os=linux
+                    kubernetes.io/arch=amd64
+                    kubernetes.io/hostname=node1.example.com
+                    kubernetes.io/os=linux
+                    node-role.kubernetes.io/worker=
+                    node-role.kubernetes.io/workernode=
+Annotations:        kubeadm.alpha.kubernetes.io/cri-socket: unix:///var/run/containerd/containerd.sock
+                    node.alpha.kubernetes.io/ttl: 0
+                    projectcalico.org/IPv4Address: 10.0.14.2/8
+                    projectcalico.org/IPv4IPIPTunnelAddr: 192.168.11.64
+                    volumes.kubernetes.io/controller-managed-attach-detach: true
+CreationTimestamp:  Wed, 29 Apr 2026 03:00:11 -0400
+Taints:             region=high:NoSchedule
+Unschedulable:      false
+Lease:
+  HolderIdentity:  node1.example.com
+  AcquireTime:     <unset>
+  RenewTime:       Mon, 11 May 2026 00:12:05 -0400
+Conditions:
+  Type                 Status  LastHeartbeatTime                 LastTransitionTime                Reason                       Message
+  ----                 ------  -----------------                 ------------------                ------                       -------
+  NetworkUnavailable   False   Sun, 10 May 2026 22:24:21 -0400   Sun, 10 May 2026 22:24:21 -0400   CalicoIsUp                   Calico is running on this node
+  MemoryPressure       False   Mon, 11 May 2026 00:11:48 -0400   Sun, 10 May 2026 22:24:16 -0400   KubeletHasSufficientMemory   kubelet has sufficient memory available
+  DiskPressure         False   Mon, 11 May 2026 00:11:48 -0400   Sun, 10 May 2026 22:24:16 -0400   KubeletHasNoDiskPressure     kubelet has no disk pressure
+  PIDPressure          False   Mon, 11 May 2026 00:11:48 -0400   Sun, 10 May 2026 22:24:16 -0400   KubeletHasSufficientPID      kubelet has sufficient PID available
+  Ready                True    Mon, 11 May 2026 00:11:48 -0400   Sun, 10 May 2026 22:24:16 -0400   KubeletReady                 kubelet is posting ready status
+Addresses:
+  InternalIP:  10.0.14.2
+  Hostname:    node1.example.com
+Capacity:
+  cpu:                2
+  ephemeral-storage:  62628Mi
+  hugepages-1Gi:      0
+  hugepages-2Mi:      0
+  memory:             3743040Ki
+  pods:               110
+Allocatable:
+  cpu:                2
+  ephemeral-storage:  59103195858
+  hugepages-1Gi:      0
+  hugepages-2Mi:      0
+  memory:             3640640Ki
+  pods:               110
+System Info:
+  Machine ID:                 44ff4751e23c4fb291dd87e91ca00e96
+  System UUID:                985a884e-bc8b-4b4b-b192-509585bb1347
+  Boot ID:                    42b777d3-0902-44c2-a810-7880761c3b15
+  Kernel Version:             5.14.0-611.47.1.el9_7.x86_64
+  OS Image:                   Rocky Linux 9.7 (Blue Onyx)
+  Operating System:           linux
+  Architecture:               amd64
+  Container Runtime Version:  containerd://2.2.3
+  Kubelet Version:            v1.32.13
+  Kube-Proxy Version:         v1.32.13
+PodCIDR:                      192.168.1.0/24
+PodCIDRs:                     192.168.1.0/24
+Non-terminated Pods:          (10 in total)
+  Namespace                   Name                          CPU Requests  CPU Limits  Memory Requests  Memory Limits  Age
+  ---------                   ----                          ------------  ----------  ---------------  -------------  ---
+  default                     mydeploy-5ddf7568c5-fbbnh     0 (0%)        0 (0%)      0 (0%)           0 (0%)         2d21h
+  default                     mydeploy-5ddf7568c5-kh6dc     0 (0%)        0 (0%)      0 (0%)           0 (0%)         2d21h
+  default                     mydeploy-5ddf7568c5-npt7n     0 (0%)        0 (0%)      0 (0%)           0 (0%)         2d21h
+  default                     mydeploy-5ddf7568c5-whjxn     0 (0%)        0 (0%)      0 (0%)           0 (0%)         2d21h
+  default                     mydeploy2-5ddf7568c5-cpbtf    0 (0%)        0 (0%)      0 (0%)           0 (0%)         4d20h
+  default                     mydeploy2-5ddf7568c5-lsvzm    0 (0%)        0 (0%)      0 (0%)           0 (0%)         4d20h
+  default                     mydeploy2-5ddf7568c5-p56qr    0 (0%)        0 (0%)      0 (0%)           0 (0%)         4d20h
+  default                     mydeploy2-5ddf7568c5-wf5cq    0 (0%)        0 (0%)      0 (0%)           0 (0%)         4d20h
+  kube-system                 calico-node-s64jm             250m (12%)    0 (0%)      0 (0%)           0 (0%)         11d
+  kube-system                 kube-proxy-fnl2d              0 (0%)        0 (0%)      0 (0%)           0 (0%)         11d
+Allocated resources:
+  (Total limits may be over 100 percent, i.e., overcommitted.)
+  Resource           Requests    Limits
+  --------           --------    ------
+  cpu                250m (12%)  0 (0%)
+  memory             0 (0%)      0 (0%)
+  ephemeral-storage  0 (0%)      0 (0%)
+  hugepages-1Gi      0 (0%)      0 (0%)
+  hugepages-2Mi      0 (0%)      0 (0%)
+Events:              <none>
+[root@master ~]#
+
+
+[root@master ~]# kubectl get pod -o wide
+NAME                          READY   STATUS    RESTARTS   AGE     IP                NODE                NOMINATED NODE   READINESS GATES
+res-deploy-644b7f669b-ktkfk   1/1     Running   0          9m46s   192.168.178.212   node3.example.com   <none>           <none>
+[root@master ~]# kubectl get pod
+NAME                          READY   STATUS    RESTARTS   AGE
+res-deploy-644b7f669b-ktkfk   1/1     Running   0          10m
+[root@master ~]# kubectl delete deploy res-deploy
+deployment.apps "res-deploy" deleted
+[root@master ~]# 
+
+[root@master ~]# vim resdeploy.yml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: myapp
+  name: res-deploy
+spec:
+  replicas: 4
+  selector:
+    matchLabels:
+      app: myapp
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: myapp
+    spec:
+      containers:
+      - image: nginx
+        name: nginx
+        resources: 
+          limits:
+            cpu: 200m
+            memory: 200Gi
+          requests:
+            cpu: 100m
+            memory: 100Gi
+status: {}
+[root@master ~]# 
+
+[root@master ~]# kubectl create -f res-deploy.yml
+deployment.apps/res-deploy created
+[root@master ~]# kubectl get pod -o wide
+NAME                          READY   STATUS    RESTARTS   AGE   IP       NODE     NOMINATED NODE   READINESS GATES
+res-deploy-5c6cdb9745-4j2tl   0/1     Pending   0          7s    <none>   <none>   <none>           <none>
+res-deploy-5c6cdb9745-7872b   0/1     Pending   0          7s    <none>   <none>   <none>           <none>
+res-deploy-5c6cdb9745-bn2vw   0/1     Pending   0          7s    <none>   <none>   <none>           <none>
+res-deploy-5c6cdb9745-qsstp   0/1     Pending   0          7s    <none>   <none>   <none>           <none>
+[root@master ~]# kubectl logs res-deploy-5c6cdb9745-4j2tl    #it will not show logs as pods are in pending state
+[root@master ~]# kubectl get events 
+LAST SEEN   TYPE      REASON              OBJECT                             MESSAGE
+35s         Warning   FailedScheduling    pod/res-deploy-5c6cdb9745-4j2tl    0/4 nodes are available: 1 Insufficient memory, 1 node(s) had untolerated taint {node-role.kubernetes.io/control-plane: }, 1 node(s) had untolerated taint {region: high}, 1 node(s) had untolerated taint {region: low}. preemption: 0/4 nodes are available: 1 No preemption victims found for incoming pod, 3 Preemption is not helpful for scheduling.
+35s         Warning   FailedScheduling    pod/res-deploy-5c6cdb9745-7872b    0/4 nodes are available: 1 Insufficient memory, 1 node(s) had untolerated taint {node-role.kubernetes.io/control-plane: }, 1 node(s) had untolerated taint {region: high}, 1 node(s) had untolerated taint {region: low}. preemption: 0/4 nodes are available: 1 No preemption victims found for incoming pod, 3 Preemption is not helpful for scheduling.
+35s         Warning   FailedScheduling    pod/res-deploy-5c6cdb9745-bn2vw    0/4 nodes are available: 1 Insufficient memory, 1 node(s) had untolerated taint {node-role.kubernetes.io/control-plane: }, 1 node(s) had untolerated taint {region: high}, 1 node(s) had untolerated taint {region: low}. preemption: 0/4 nodes are available: 1 No preemption victims found for incoming pod, 3 Preemption is not helpful for scheduling.
+35s         Warning   FailedScheduling    pod/res-deploy-5c6cdb9745-qsstp    0/4 nodes are available: 1 Insufficient memory, 1 node(s) had untolerated taint {node-role.kubernetes.io/control-plane: }, 1 node(s) had untolerated taint {region: high}, 1 node(s) had untolerated taint {region: low}. preemption: 0/4 nodes are available: 1 No preemption victims found for incoming pod, 3 Preemption is not helpful for scheduling.
+----------------output truncated ---------------
+12m         Normal    ScalingReplicaSet   deployment/res-deploy              Scaled up replica set res-deploy-644b7f669b from 0 to 4
+9m34s       Normal    ScalingReplicaSet   deployment/res-deploy              Scaled down replica set res-deploy-644b7f669b from 4 to 1
+35s         Normal    ScalingReplicaSet   deployment/res-deploy              Scaled up replica set res-deploy-5c6cdb9745 from 0 to 4
+12m         Normal    Killing             pod/storage-dep-7b5dfb75d6-b2kzv   Stopping container busycont
+[root@master ~]#
+
+[root@master ~]# kubectl get pods
+NAME                          READY   STATUS    RESTARTS   AGE
+res-deploy-5c6cdb9745-4j2tl   0/1     Pending   0          68s
+res-deploy-5c6cdb9745-7872b   0/1     Pending   0          68s
+res-deploy-5c6cdb9745-bn2vw   0/1     Pending   0          68s
+res-deploy-5c6cdb9745-qsstp   0/1     Pending   0          68s
+[root@master ~]# 
+
+
+Changing the values:
+    
+[root@master ~]# vim resdeploy.yml 
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: myapp
+  name: res-deploy
+spec:
+  replicas: 4
+  selector:
+    matchLabels:
+      app: myapp
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: myapp
+    spec:
+      containers:
+      - image: nginx
+        name: nginx
+        resources: 
+          limits:
+            cpu: 200m
+            memory: 200Mi
+          requests:
+            cpu: 100m
+            memory: 100Mi
+status: {}
+[root@master ~]# 
+
+[root@master ~]# kubectl get pods
+NAME                          READY   STATUS    RESTARTS   AGE
+res-deploy-644b7f669b-545ws   1/1     Running   0          4s
+res-deploy-644b7f669b-d58vf   1/1     Running   0          8s
+res-deploy-644b7f669b-jgnnh   1/1     Running   0          3s
+res-deploy-644b7f669b-wlcx5   1/1     Running   0          8s
+[root@master ~]# 
+
+Note:  If your pods are not running or in pendings states, please check your node's Taint values
+
+If its tainted use below command to check and change:
+[root@master ~]# kubectl describe node node1.example.com | grep Taint
+Taints:             region=high:NoSchedule
+[root@master ~]# kubectl describe node node2.example.com | grep Taint
+Taints:             region=low:NoExecute
+[root@master ~]# kubectl describe node node3.example.com | grep Taint
+Taints:             region=mid:PreferNoSchedule
+[root@master ~]# kubectl taint node node1.example.com region-
+node/node1.example.com untainted
+[root@master ~]# kubectl taint node node2.example.com region-
+node/node2.example.com untainted
+[root@master ~]# kubectl taint node node3.example.com region-
+node/node3.example.com untainted
+[root@master ~]# 
+
+
+[root@master ~]# kubectl get pod -o wide
+NAME                          READY   STATUS              RESTARTS   AGE   IP                NODE                NOMINATED NODE   READINESS GATES
+res-deploy-644b7f669b-66k2c   1/1     Running             0          6s    192.168.178.213   node3.example.com   <none>           <none>
+res-deploy-644b7f669b-lc9n7   0/1     ContainerCreating   0          6s    <none>            node2.example.com   <none>           <none>
+res-deploy-644b7f669b-rtth8   0/1     ContainerCreating   0          6s    <none>            node2.example.com   <none>           <none>
+res-deploy-644b7f669b-sv9dv   1/1     Running             0          6s    192.168.11.77     node1.example.com   <none>           <none>
+[root@master ~]# 
+
+
+Task:32:CompletionStatus: Madhumithra,Tejal,Nithyanandan Krishnan,Vaishnavi,Kiran, Andrew,Taosif Gunjan,sushanth,Satyamev,Himanshu,
+
+Task:33
+
+=====
+Role:
+=====
+Note:  Please use your master to execute below command:
+kubectl create role myrole --verb=list,get,create,update,delete --resource=pods --dry-run=client -o yaml
+
+[root@master ~]# vim role.yml 
+apiVersion: rbac.authorization.k8s.io/v1
+kind: Role
+metadata:
+  name: myrole
+rules:
+- apiGroups: [""]
+  resources: ["pods"]
+  verbs: ["list","get","create","update","delete"]
+[root@master ~]# 
+ 
+ 
+[root@master ~]# kubectl create -f role.yml
+role.rbac.authorization.k8s.io/myrole created
+[root@master ~]# kubectl get role
+NAME     CREATED AT
+myrole   2025-02-12T04:00:13Z
+[root@master ~]# kubectl get role -o yaml
+apiVersion: v1
+items:
+- apiVersion: rbac.authorization.k8s.io/v1
+  kind: Role
+  metadata:
+    creationTimestamp: "2025-02-12T04:00:13Z"
+    name: myrole
+    namespace: proja
+    resourceVersion: "449578"
+    uid: 192695b0-f57a-4fc7-9c81-f92386d7e56b
+  rules:
+  - apiGroups:
+    - ""
+    resources:
+    - pods
+    verbs:
+    - list
+    - get
+    - create
+    - update
+    - delete
+kind: List
+metadata:
+  resourceVersion: ""
+[root@master ~]#
+
+RoleBinding:
+    kubectl create rolebinding myrole-binding --role=myrole --user=dev-user --dry-run=client -o yaml
+ 
+[root@master ~]# vim rolebinding.yml
+apiVersion: rbac.authorization.k8s.io/v1
+kind: RoleBinding
+metadata:
+  name: myrole-binding
+subjects:
+- kind: User
+  name: dev-user
+  apiGroup: rbac.authorization.k8s.io
+roleRef:
+  kind: Role
+  name: myrole
+  apiGroup: rbac.authorization.k8s.io
+ 
+
+[root@master ~]# kubectl create -f rolebinding.yml
+rolebinding.rbac.authorization.k8s.io/myrole-binding created
+[root@master ~]# kubectl get rolebinding
+NAME             ROLE          AGE
+myrole-binding   Role/myrole   7s
+[root@master ~]# kubectl get role
+NAME     CREATED AT
+myrole   2025-02-12T04:00:13Z
+[root@master ~]# kubectl get rolebinding myrole-binding -o yaml
+apiVersion: rbac.authorization.k8s.io/v1
+kind: RoleBinding
+metadata:
+  creationTimestamp: "2025-02-12T04:04:33Z"
+  name: myrole-binding
+  namespace: proja
+  resourceVersion: "449967"
+  uid: ecdcc976-53f7-4def-9a57-53c7f13696c1
+roleRef:
+  apiGroup: rbac.authorization.k8s.io
+  kind: Role
+  name: myrole
+subjects:
+- apiGroup: rbac.authorization.k8s.io
+  kind: User
+  name: dev-user
+[root@master ~]# kubectl describe role myrole
+Name:         myrole
+Labels:       <none>
+Annotations:  <none>
+PolicyRule:
+  Resources  Non-Resource URLs  Resource Names  Verbs
+  ---------  -----------------  --------------  -----
+  pods       []                 []              [list get create update delete]
+[root@master ~]# kubectl describe rolebinding myrole-biding
+Error from server (NotFound): rolebindings.rbac.authorization.k8s.io "myrole-biding" not found
+[root@master ~]# kubectl describe rolebinding myrole-binding
+Name:         myrole-binding
+Labels:       <none>
+Annotations:  <none>
+Role:
+  Kind:  Role
+  Name:  myrole
+Subjects:
+  Kind  Name      Namespace
+  ----  ----      ---------
+  User  dev-user  
+[root@master ~]#    
+
+Task:33:CompletedStatus: Satyamev, Andrew, Vaishnavi,Taosif,Tejal,Madhumithra,Gunjan,sushandh,Nithyanandan Krishnan,Himanshu,
+
+Task:34
+
+Minikube Install:
+    The below commands should be exectued only on Node3.example.com
+    
+# dnf config-manager --add-repo=https://download.docker.com/linux/centos/docker-ce.repo
+ 
+ 
+# dnf repolist
+# dnf install docker-ce docker-ce-cli containerd.io -y
+-------------------------------------------------------------------------------------------------
+It throws some conflict issue.....
+Known issue: 
+[root@node3 ~]# yum remove -y docker
+Dependencies resolved.
+============================================================================================================
+ Package                    Architecture        Version                       Repository               Size
+============================================================================================================
+Removing:
+ podman-docker              noarch              6:5.6.0-14.el9_7              @appstream               12 k
+
+Transaction Summary
+============================================================================================================
+Remove  1 Package
+
+
+Running transaction
+  Preparing        :                                                                                    1/1 
+  Erasing          : podman-docker-6:5.6.0-14.el9_7.noarch                                              1/1 
+  Running scriptlet: podman-docker-6:5.6.0-14.el9_7.noarch                                              1/1 
+  Verifying        : podman-docker-6:5.6.0-14.el9_7.noarch                                              1/1 
+
+Removed:
+  podman-docker-6:5.6.0-14.el9_7.noarch                                                                     
+
+Complete!
+[root@node3 ~]# 
+
+-------------------------------------------------------------------------------------------------
+ 
+ # dnf install docker-ce docker-ce-cli containerd.io -y
+ 
+# systemctl enable docker
+# systemctl start docker
+# usermod -aG docker $USER
+# newgrp docker
+# curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
+
+     
+
+    # cp     kubectl /usr/local/bin/ && sudo chmod +x /usr/local/bin/kubectl
+
+# kubectl version --client
+# curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
+# sudo install minikube-linux-amd64 /usr/local/bin/minikube
+# minikube start --driver podman --force
+#minikube status
+#kubectl cluster-info
+# kubectl get nodes
+ 
+ [root@node3 ~]#  kubectl get nodes
+NAME       STATUS   ROLES           AGE    VERSION
+minikube   Ready    control-plane   118s   v1.35.1
+[root@node3 ~]#  kubectl get pod -A
+NAMESPACE     NAME                               READY   STATUS    RESTARTS        AGE
+kube-system   coredns-7d764666f9-lf84t           1/1     Running   0               2m11s
+kube-system   etcd-minikube                      1/1     Running   0               2m19s
+kube-system   kube-apiserver-minikube            1/1     Running   0               2m15s
+kube-system   kube-controller-manager-minikube   1/1     Running   0               2m19s
+kube-system   kube-proxy-ncp9h                   1/1     Running   0               2m11s
+kube-system   kube-scheduler-minikube            1/1     Running   0               2m18s
+kube-system   storage-provisioner                1/1     Running   1 (2m10s ago)   2m13s
+[root@node3 ~]# 
+
+# kubectl create deployment test-minikube --image=k8s.gcr.io/echoserver:1.10 
+deployment.apps/test-minikube created
+
+Task:34:CompletionStatus: Nithyanandan Krishnan,Taosif
+
 
 
 
