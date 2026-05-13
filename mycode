@@ -114,7 +114,7 @@ Emulate Docker CLI using podman. Create /etc/containers/nodocker to quiet msg.
 [root@node3 ~]# docker ps
 Emulate Docker CLI using podman. Create /etc/containers/nodocker to quiet msg.
 CONTAINER ID  IMAGE       COMMAND     CREATED     STATUS      PORTS       NAMES
-[root@node3 ~]# docker ps -a
+[root@node3 ~]# docker ps
 Emulate Docker CLI using podman. Create /etc/containers/nodocker to quiet msg.
 CONTAINER ID  IMAGE                           COMMAND     CREATED        STATUS                    PORTS       NAMES
 777bca506a06  registry.redhat.io/ubi8:latest  /bin/bash   2 minutes ago  Exited (0) 2 minutes ago              myos
@@ -158,11 +158,11 @@ CONTAINER ID  IMAGE                           COMMAND     CREATED             ST
 [root@node3 ~]# docker rm myos2
 Emulate Docker CLI using podman. Create /etc/containers/nodocker to quiet msg.
 myos2
-[root@node3 ~]# docker ps -a
+[root@node3 ~]# docker rm myos2
 Emulate Docker CLI using podman. Create /etc/containers/nodocker to quiet msg.
 CONTAINER ID  IMAGE                           COMMAND     CREATED        STATUS                    PORTS       NAMES
 777bca506a06  registry.redhat.io/ubi8:latest  /bin/bash   6 minutes ago  Exited (0) 6 minutes ago              myos
-[root@node3 ~]# docker rm myos
+[root@node3 ~]# docker rm myos2
 Emulate Docker CLI using podman. Create /etc/containers/nodocker to quiet msg.
 myos
 
@@ -193,11 +193,13 @@ Task:4
 [root@node3 ~]# docker ps
 Emulate Docker CLI using podman. Create /etc/containers/nodocker to quiet msg.
 CONTAINER ID  IMAGE       COMMAND     CREATED     STATUS      PORTS       NAMES
-[root@node3 ~]# docker ps -a
+[root@node3 ~]# docker ps
 Emulate Docker CLI using podman. Create /etc/containers/nodocker to quiet msg.
 CONTAINER ID  IMAGE       COMMAND     CREATED     STATUS      PORTS       NAMES
 [root@node3 ~]# docker login registry.redhat.io
-Emulate Docker CLI using podman. Create /etc/containers/nodocker to quiet msg.
+
+    Emulate Docker CLI using podman. Create /etc/containers/nodocker to quiet msg.
+
 Username: muralitharan_03
 Password:  Redhat_1234567890
 Login Succeeded!
@@ -3318,7 +3320,7 @@ Task:27:CompletionStatus:Madhumithra,Himanshu,Shubham S,Manoj,Taosif
 07May2026: 
 Mid Assessment:  MCQ  & Lab Assessment
 
-CompletionStatus:Nithyanandan Krishnan, Chandan ( But unable to upload file), Manoj, Shreyash Lavhate,Madhumithra, Andrew, Taosif,Himanshu,K
+CompletionStatus:Nithyanandan Krishnan, Chandan ( But unable to upload file), Manoj, Shreyash Lavhate,Madhumithra, Andrew, Taosif,Himanshu,K, Shubham S
 
 08May2026:
 
@@ -3355,7 +3357,7 @@ reclaimPolicy: Delete
 volumeBindingMode: Immediate
 [root@master ~]# 
 
-Task:28:CompletionStatus:Madhumithra,Taosif,Manoj,Satyamev,sushandh, Andrew, Vaishnavi,Himanshu,Nithyanandan Krishnan,Gunjan,sriram,Kiran
+Task:28:CompletionStatus:Madhumithra,Taosif,Manoj,Satyamev,sushandh, Andrew,Shubham SVaishnavi,Himanshu,Nithyanandan Krishnan,Gunjan,sriram,Kiran
 
 Task:29
 Persistent Volume:
@@ -3415,7 +3417,7 @@ status:
 [root@master ~]#
 
 
-Task:29:CompletionStatus: Madhumithra,Manoj,Taosif,Vaishnavi,Satyamev,N, Andrew, Nithyanandan Krishnan,sushandh,Himanshu,Gunjan,sriramKiran
+Task:29:CompletionStatus: Madhumithra,Manoj,Taosif,Vaishnavi,Satyamev,N, Andrew,Shubham,Nithyanandan Krishnan,sushandh,Himanshu,Gunjan,sriramKiran
 Task:30
 
 PVC:
@@ -3522,7 +3524,7 @@ No resources found in default namespace.
 [root@master ~]# 
 
 
-Task:30:CompletionStatus: Satyamev ,Manoj,Taosif ,sushandh,Ma Andrew, Nithyanandan Krishnan,Gunjan,Himanshu,sriram,Vaishnavi
+Task:30:CompletionStatus: Satyamev ,Manoj,Taosif ,sushandh,Ma Andrew, Nithyanandan Krishnan,Gunjan,Shubham,Himanshu,sriram,Vaishnavi
 Task:31
 
 [root@master ~]# vim storage-dep.yml
@@ -3622,7 +3624,7 @@ success.txt
 /output # wc -l success.txt 
 41 success.txt
 
-Task:31:CompletionStatus:Madhumithra,Nithyanandan Krishnan,Taosif,Himanshu,sushandh, Andrew, Satyamev,sriram,Vaishnavi
+Task:31:CompletionStatus:Madhumithra,Nithyanandan Krishnan,Taosif,Himanshu,sushandh,Shubham,Andrew, Satyamev,sriram,Vaishnavi
 
 11May26:
 
@@ -3958,7 +3960,7 @@ res-deploy-644b7f669b-sv9dv   1/1     Running             0          6s    192.1
 [root@master ~]# 
 
 
-Task:32:CompletionStatus: Madhumithra,Tejal,Nithyanandan Krishnan,Vaishnavi,Kiran, Andrew,Taosif Gunjan,sushanth,Satyamev,Himanshu,
+Task:32:CompletionStatus: Madhumithra,Tejal,Nithyanandan Krishnan,Vaishnavi,Shubham,Kiran, Andrew,Taosif Gunjan,sushanth,Satyamev,Himanshu,
 
 Task:33
 
@@ -4078,7 +4080,7 @@ Subjects:
   User  dev-user  
 [root@master ~]#    
 
-Task:33:CompletedStatus: Satyamev, Andrew, Vaishnavi,Taosif,Tejal,Madhumithra,Gunjan,sushandh,Nithyanandan Krishnan,Himanshu,
+Task:33:CompletedStatus: Satyamev, Andrew, Vaishnavi,Taosif,Tejal,Madhumithra,Gunjan,sushandh,Nithyanandan Krishnan,Himanshu,Shubham
 
 Task:34
 
@@ -4157,7 +4159,801 @@ kube-system   storage-provisioner                1/1     Running   1 (2m10s ago)
 # kubectl create deployment test-minikube --image=k8s.gcr.io/echoserver:1.10 
 deployment.apps/test-minikube created
 
-Task:34:CompletionStatus: Nithyanandan Krishnan,Taosif
+Task:34:CompletionStatus: Nithyanandan Krishnan,Taosif,Madhumithra,Satyamev,Tejal,sushandh,Himanshu,Vaishnavi,Gunjan,Shubham
+
+12May2026:
+Task: 35
+Helm Charts Install:
+ 
+    https://helm.sh/docs/intro/install/      --> open browser 
+    select "desired version" -> select "Linux amd64"
+    
+    Download and use the binary as per the above link 
+ 
+    #cd /root/Downloads
+    #ls 
+    helm.3.15......tar.gz
+    #tar xvfz helm-3.15.......tar.gz
+    #cd linux-amd64
+    #cp helm /usr/local/bin
+    #helm
+    The Kubernetes package manager
+ 
+    Common actions for Helm:
+ 
+- helm search:    search for charts
+- helm pull:      download a chart to your local directory to view
+- helm install:   upload the chart to Kubernetes
+- helm list:      list releases of charts
+------------------------output truncated ---------------------------------------
+
+
+    $helm search repo bitnami
+   $helm repo add bitnami https://charts.bitnami.com/bitnami
+
+     
+
+      
+
+     $     helm repo     update               
+
+      
+
+     $     helm list
+
+ 
+What is prometheus?
+https://prometheus.io/docs/introduction/overview/
+ 
+Add helm repo
+helm repo add prometheus-community https://prometheus-community.github.io/helm-charts
+    
+Update helm repo
+helm repo update
+ 
+Install Prometheus through helm
+helm install prometheus prometheus-community/prometheus
+kubectl get pod
+kubectl get all
+kubectl get pv
+kubectl get pvc
+ 
+Expose Prometheus Service
+This is required to access prometheus-server using your browser.
+ 
+#kubectl expose service prometheus-server --type=NodePort --target-port=9090 --name=prometheus-server-ext
+#kubectl get svc
+ 
+Using "minikube ip" and get the ip address and add the port using above "kubectl get svc" command 
+Now prometheus UI will be opened
+ 
+Installing Grafanna using Helm Charts:
+    
+Add helm repo
+helm repo add grafana https://grafana.github.io/helm-charts
+ 
+Update helm repo
+helm repo update
+ 
+Install helm
+helm install grafana grafana/grafana
+ 
+Once instllation is completed, you need to execute the below command: to get the password for the admin user:
+    
+    #kubectl get secret --namespace default grafana -o jsonpath="{.data.admin-password}" | base64 --decode ; echo 
+    
+Expose Grafana Service
+#kubectl expose service grafana --type=NodePort --target-port=3000 --name=grafana-ext
+#kubectl get svc
+ 
+With "minikube ip " along with the port number (take it from "kubectl get svc"), using browser, get the UI
+ 
+using "admin" user and with the password, login.
+Goto "Data Source" - click and see the options.  Normally have multiple data sources.  Select Prometheus 
+Where in "Prometheus server URL" section, enter the http://IPAddress:Port - which you have entered to create prometheus UI 
+select Save and Test
+ 
+Come back and see the "create first dashboard" - click --> just see the options.
+But, click left side 4squares option  -> select -> Dashboard -> select "Create Dashboard"  -> then select "import dashboard" ->  
+ 
+enter "3662" (this is ID number where pre-created template is available) -> as you click on the "Load" button, you can see prometheus is loaded. ...
+Also on the bottom select "prometheus" on the prometheus tab...then click "Import"
+ 
+Now you can able to see the Dashboards...    
+=================================================================
+
+Task:35:CompletionStatus:Satyamev,Madhumithra,Tejal,sushandh,Nithyanandan Krishnan,Shubham
+
+
+ConfigMap:
+
+[root@master ~]# vim cm.yml 
+apiVersion: v1
+kind: ConfigMap
+metadata:
+   name: app-config
+data:
+  APP_ENV: production
+  DB_HOST: mysql-service
+  DB_PORT: "3306"
+[root@master ~]# 
+
+[root@master ~]# kubectl create -f cm.yml
+configmap/app-config created
+[root@master ~]# kubectl get cm
+NAME               DATA   AGE
+app-config         3      5s
+kube-root-ca.crt   1      8d
+[root@master ~]# kubectl get cm 
+NAME               DATA   AGE
+app-config         3      11s
+kube-root-ca.crt   1      8d
+[root@master ~]# kubectl get cm app-config -o yaml
+apiVersion: v1
+data:
+  APP_ENV: production
+  DB_HOST: mysql-service
+  DB_PORT: "3306"
+kind: ConfigMap
+metadata:
+  creationTimestamp: "2026-05-12T07:18:25Z"
+  name: app-config
+  namespace: feds
+  resourceVersion: "578996"
+  uid: 318465d0-4785-462b-a797-fa9664d185d2
+[root@master ~]#
+
+
+[root@master ~]# vim cm-dep.yml 
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nginx-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: nginx
+  template:
+    metadata:
+      labels:
+        app: nginx
+    spec:
+      containers:
+      - name: nginx
+        image: nginx:latest
+        ports:
+        - containerPort: 80
+        env:
+        - name: APP_ENV
+          valueFrom:
+            configMapKeyRef:
+              name: app-config
+              key: APP_ENV
+        - name: DB_HOST
+          valueFrom:
+            configMapKeyRef:
+              name: app-config
+              key: DB_HOST
+        - name: DB_PORT
+          valueFrom:
+            configMapKeyRef:
+              name: app-config
+              key: DB_PORT
+[root@master ~]# 
+
+[root@master ~]# kubectl create -f cm-dep.yml
+deployment.apps/nginx-deployment created
+[root@master ~]# kubectl get deploy
+NAME               READY   UP-TO-DATE   AVAILABLE   AGE
+nginx-deployment   1/1     1            1           4s
+[root@master ~]# kubectl get deploy nginx-deployment -o yaml 
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  annotations:
+    deployment.kubernetes.io/revision: "1"
+  creationTimestamp: "2026-05-12T07:22:28Z"
+  generation: 1
+  name: nginx-deployment
+  namespace: feds
+  resourceVersion: "579388"
+  uid: 29d9c339-5758-42c8-a57a-49af86f8d8ca
+spec:
+  progressDeadlineSeconds: 600
+  replicas: 1
+  revisionHistoryLimit: 10
+  selector:
+    matchLabels:
+      app: nginx
+  strategy:
+    rollingUpdate:
+      maxSurge: 25%
+      maxUnavailable: 25%
+    type: RollingUpdate
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: nginx
+    spec:
+      containers:
+      - env:
+        - name: APP_ENV
+          valueFrom:
+            configMapKeyRef:
+              key: APP_ENV
+              name: app-config
+        - name: DB_HOST
+          valueFrom:
+            configMapKeyRef:
+              key: DB_HOST
+              name: app-config
+        - name: DB_PORT
+          valueFrom:
+            configMapKeyRef:
+              key: DB_PORT
+              name: app-config
+        image: nginx:latest
+        imagePullPolicy: Always
+        name: nginx
+        ports:
+        - containerPort: 80
+          protocol: TCP
+        resources: {}
+        terminationMessagePath: /dev/termination-log
+        terminationMessagePolicy: File
+      dnsPolicy: ClusterFirst
+      restartPolicy: Always
+      schedulerName: default-scheduler
+      securityContext: {}
+      terminationGracePeriodSeconds: 30
+status:
+  availableReplicas: 1
+  conditions:
+  - lastTransitionTime: "2026-05-12T07:22:31Z"
+    lastUpdateTime: "2026-05-12T07:22:31Z"
+    message: Deployment has minimum availability.
+    reason: MinimumReplicasAvailable
+    status: "True"
+    type: Available
+  - lastTransitionTime: "2026-05-12T07:22:28Z"
+    lastUpdateTime: "2026-05-12T07:22:31Z"
+    message: ReplicaSet "nginx-deployment-568574d644" has successfully progressed.
+    reason: NewReplicaSetAvailable
+    status: "True"
+    type: Progressing
+  observedGeneration: 1
+  readyReplicas: 1
+  replicas: 1
+  updatedReplicas: 1
+[root@master ~]# 
+
+
+Secret: 
+
+ [root@master ~]#  vim secret.yml
+apiVersion: v1 
+kind: Secret 
+ 
+metadata: 
+    name: db-secret 
+ type: Opaque 
+ 
+data: 
+DB_USER: YWRtaW4= 
+DB_PASSWORD: TXlQYXNzMTIz 
+
+=====================================================
+
+
+
+
+
+Task:36
+Ansible:
+    
+1. User creation - devops in node1 and node2
+2. Password Less Authentication
+3. SUDO Privilege
+
+Node1:
+[root@node1 ~]# useradd devops
+[root@node1 ~]# passwd devops
+Changing password for user devops.
+New password: redhat
+BAD PASSWORD: The password is shorter than 8 characters
+Retype new password: redhat
+passwd: all authentication tokens updated successfully.
+[root@node1 ~]# 
+
+
+Node2:
+[root@node2 ~]# useradd devops
+[root@node2 ~]# passwd devops
+Changing password for user devops.
+New password: redhat
+BAD PASSWORD: The password is shorter than 8 characters
+Retype new password: redhat
+passwd: all authentication tokens updated successfully.
+[root@node2 ~]# 
+
+
+Master:
+
+[root@master ~]# su - student
+[student@master ~]$ ssh devops@node1
+The authenticity of host 'node1 (10.0.14.2)' can't be established.
+ECDSA key fingerprint is SHA256:Z5i9iLFXxwqbpx8od9pqF7QSxc2lImgnTxbTFm+tRbk.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'node1,10.0.14.2' (ECDSA) to the list of known hosts.
+devops@node1's password: redhat
+Activate the web console with: systemctl enable --now cockpit.socket
+
+[devops@node1 ~]$ exit
+logout
+Connection to node1 closed.
+[student@master ~]$ ssh devops@node2
+The authenticity of host 'node2 (10.0.14.3)' can't be established.
+ECDSA key fingerprint is SHA256:Z5i9iLFXxwqbpx8od9pqF7QSxc2lImgnTxbTFm+tRbk.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'node2,10.0.14.3' (ECDSA) to the list of known hosts.
+devops@node2's password: redhat
+Activate the web console with: systemctl enable --now cockpit.socket
+
+[devops@node2 ~]$     
+
+
+
+PasswordLess Auth:
+    
+[student@master ~]$ ssh-keygen 
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/student/.ssh/id_rsa): 
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/student/.ssh/id_rsa.
+Your public key has been saved in /home/student/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:SpfanjDaE/IyAibxekP2dZAiDlRRKj4ES1IqIvAYLwc student@master.example.com
+The key's randomart image is:
++---[RSA 3072]----+
+|Eoooo.           |
+|=X  .            |
+|Xo+.   .         |
+|Ooo . o  .       |
+| B . ...S        |
+|o.* ..o=.        |
+|o= . +=o.        |
+|. + +oo+ .       |
+| . o.o..o        |
++----[SHA256]-----+
+[student@master ~]$ 
+
+[student@master ~]$ ssh-copy-id devops@node1
+/usr/bin/ssh-copy-id: INFO: Source of key(s) to be installed: "/home/student/.ssh/id_rsa.pub"
+/usr/bin/ssh-copy-id: INFO: attempting to log in with the new key(s), to filter out any that are already installed
+/usr/bin/ssh-copy-id: INFO: 1 key(s) remain to be installed -- if you are prompted now it is to install the new keys
+devops@node1's password: redhat
+
+Number of key(s) added: 1
+
+Now try logging into the machine, with:   "ssh 'devops@node1'"
+and check to make sure that only the key(s) you wanted were added.
+
+[student@master ~]$ ssh-copy-id devops@node2
+/usr/bin/ssh-copy-id: INFO: Source of key(s) to be installed: "/home/student/.ssh/id_rsa.pub"
+/usr/bin/ssh-copy-id: INFO: attempting to log in with the new key(s), to filter out any that are already installed
+/usr/bin/ssh-copy-id: INFO: 1 key(s) remain to be installed -- if you are prompted now it is to install the new keys
+devops@node2's password: redhat
+
+Number of key(s) added: 1
+
+Now try logging into the machine, with:   "ssh 'devops@node2'"
+and check to make sure that only the key(s) you wanted were added.
+
+
+Verify to access node1 and node2 as devops user without password:
+    
+[student@master ~]$ ssh devops@node1
+Activate the web console with: systemctl enable --now cockpit.socket
+
+Last login: Mon Dec 22 09:21:35 2025 from 10.0.14.1
+[devops@node1 ~]$ exit
+logout
+Connection to node1 closed.
+
+
+[student@master ~]$ ssh devops@node2
+Activate the web console with: systemctl enable --now cockpit.socket
+
+Last login: Mon Dec 22 09:21:45 2025 from 10.0.14.1
+[devops@node2 ~]$ exit
+logout
+Connection to node2 closed.
+[student@master ~]$ 
+
+
+Task:36:CompletionStatus:Himanshu,Madhumithra,Tejal,Kiran,Satyamev,Taosif,Nithyanandan Krishnan,sushandh ,Shubham
+    
+
+Task:37
+SUDO User:
+
+[root@node1 ~]# cd /etc/sudoers.d/
+[root@node1 sudoers.d]# vim remoteuser
+devops     ALL=(ALL)   NOPASSWD: ALL
+[root@node1 sudoers.d]# 
+
+
+[root@node2 ~]# cd /etc/sudoers.d/
+[root@node2 sudoers.d]# vim remoteuser
+devops  ALL=(ALL)   NOPASSWD:  ALL
+[root@node2 ~]# 
+
+
+Verify:
+
+[root@node1 sudoers.d]# su - devops
+[devops@node1 ~]$ sudo useradd u11
+[devops@node1 ~]$ cat /etc/passwd | tail -1
+u11:x:1002:1002::/home/u11:/bin/bash
+[devops@node1 ~]$ 
+
+
+[root@node2 sudoers.d]# su - devops
+[devops@node2 ~]$ sudo useradd u11
+[devops@node2 ~]$ cat /etc/passwd | tail -1
+u11:x:1002:1002::/home/u11:/bin/bash
+[devops@node2 ~]$ 
+
+
+Task:37:CompletionStatus: Nithyanandan Krishnan,Satyamev,sushandh,Madhumithra,Tejal,Taosif,Himanshu,Shubham
+
+
+Install Ansible:
+Task:38
+
+[student@master ~]$ su - root
+Password: 
+[root@master ~]# yum install ansible*
+Last metadata expiration check: 3:05:44 ago on Monday 22 December 2025 06:56:00 AM IST.
+Dependencies resolved.
+=====================================================================================================
+ Package                                                     Arch   Version          Repo       Size
+=====================================================================================================
+Installing:
+ ansible                                                     noarch 9.2.0-1.el8      epel       46 M
+ ansible-collection-ansible-netcommon                        noarch 5.3.0-1.el8      epel      159 k
+ ansible-collection-ansible-netcommon-doc                    noarch 5.3.0-1.el8      epel       55 k
+ ansible-collection-ansible-posix                            noarch 1.5.4-1.el8      epel      117 k
+ ansible-collection-ansible-utils                            noarch 2.12.0-1.el8     epel      156 k
+ ansible-collection-awx-awx                                  noarch 24.3.1-1.el8     epel      102 k
+ ansible-collection-redhat-rhel_mgmt                         noarch 1.1.0-2.el8      appstream  49 k
+ ansible-core                                                x86_64 2.16.3-2.el8     appstream 3.6 M
+ ansible-freeipa                                             noarch 1.12.1-1.el8     appstream 391 k
+python3.12-libs                                             x86_64 3.12.11-2.el8_10 appstream  10 M
+ python3.12-pip-wheel                                        noarch 23.2.1-4.el8     appstream 1.5 M
+ python3.12-ply                                              noarch 3.11-2.el8       appstream 133 k
+ python3.12-pycparser                                        noarch 2.20-2.el8       appstream 144 k
+ python3.12-pyyaml                                           x86_64 6.0.1-2.el8      appstream 202 k
+ rhel-system-roles                                           noarch 1.23.0-4.el8_10  appstream 3.1 M
+ sshpass                                                     x86_64 1.09-4.el8       appstream  29 k
+Installing weak dependencies:
+ python3-jmespath                                            noarch 0.9.0-11.el8     appstream  44 k
+
+Transaction Summary
+=====================================================================================================
+Install  37 Packages
+
+Total download size: 83 M
+Installed size: 604 M
+Is this ok [y/N]: y
+Downloading Packages:
+(1/37): ansible-collection-redhat-rhel_mgmt-1.1.0-2.el8.noarch.rpm   338 kB/s |  49 kB     00:00    
+(2/37): ansible-collection-microsoft-sql-2.2.3-2.el8.noarch.rpm      711 kB/s | 135 kB     00:00    
+(3/37): ansible-freeipa-tests-1.12.1-1.el8.noarch.rpm                985 kB/s | 152 kB     00:00    
+(4/37): ansible-freeipa-1.12.1-1.el8.noarch.rpm                      1.4 MB/s | 391 kB     00:00    
+(5/37): ansible-pcp-2.2.5-1.el8.noarch.rpm                           1.0 MB/s | 113 kB     00:00    
+(6/37): ansible-test-2.16.3-2.el8.x86_64.rpm                         2.6 MB/s | 945 kB     00:00    
+(7/37): mpdecimal-2.5.1-3.el8.x86_64.rpm                             1.1 MB/s |  92 kB     00:00    
+(8/37): ansible-core-2.16.3-2.el8.x86_64.rpm                         4.0 MB/s | 3.6 MB     00:00    
+(33/37): ansible-collection-netbox-netbox-3.7.1-1.el8.noarch.rpm     433 kB/s | 663 kB     00:01    
+(34/37): ansible-packaging-1-12.el8.noarch.rpm                        95 kB/s |  12 kB     00:00    
+(35/37): ansible-srpm-macros-1-12.el8.noarch.rpm                     164 kB/s |  21 kB     00:00    
+(36/37): ansible-collection-community-general-8.3.0-1.el8.noarch.rpm 352 kB/s | 1.7 MB     00:04    
+(37/37): ansible-9.2.0-1.el8.noarch.rpm                              2.2 MB/s |  46 MB     00:20    
+-----------------------------------------------------------------------------------------------------
+Total                                                                3.4 MB/s |  83 MB     00:24     
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+  Running scriptlet: rhel-system-roles-1.23.0-4.el8_10.noarch                                    1/1 
+  Running scriptlet: ansible-collection-microsoft-sql-2.2.3-2.el8.noarch                         1/1 
+  Preparing        :                                                                             1/1 
+  Installing       : ansible-srpm-macros-1-12.el8.noarch                                        1/37 
+  Installing       : sshpass-1.09-4.el8.x86_64                                                  2/37 
+  Installing       : python3.12-pip-wheel-23.2.1-4.el8.noarch                                   3/37 
+  Installing       : python3-jmespath-0.9.0-11.el8.noarch                                       4/37 
+  Installing       : mpdecimal-2.5.1-3.el8.x86_64                                               5/37 
+  Installing       : python3.12-3.12.11-2.el8_10.x86_64                                         6/37 
+  Running scriptlet: python3.12-3.12.11-2.el8_10.x86_64                                         6/37 
+  Installing       : python3.12-libs-3.12.11-2.el8_10.x86_64                                    7/37 
+  Installing       : python3.12-ply-3.11-2.el8.noarch                                           8/37 
+  Installing       : python3.12-pycparser-2.20-2.el8.noarch                                     9/37 
+
+  Verifying        : python3.12-pycparser-2.20-2.el8.noarch                                    17/37 
+  Verifying        : python3.12-pyyaml-6.0.1-2.el8.x86_64                                      18/37 
+  Verifying        : rhel-system-roles-1.23.0-4.el8_10.noarch                                  19/37 
+  Verifying        : sshpass-1.09-4.el8.x86_64                                                 20/37 
+  Verifying        : ansible-9.2.0-1.el8.noarch                                                21/37 
+  Verifying        : ansible-collection-ansible-netcommon-5.3.0-1.el8.noarch                   22/37 
+  Verifying        : ansible-collection-ansible-netcommon-doc-5.3.0-1.el8.noarch               23/37 
+  Verifying        : ansible-collection-ansible-posix-1.5.4-1.el8.noarch                       24/37 
+  Verifying        : ansible-collection-ansible-utils-2.12.0-1.el8.noarch                      25/37 
+  Verifying        : ansible-collection-awx-awx-24.3.1-1.el8.noarch                            26/37 
+
+  Verifying        : ansible-collection-containers-podman-1.16.3-7.el8.noarch                  34/37 
+  Verifying        : ansible-collection-netbox-netbox-3.7.1-1.el8.noarch                       35/37 
+  Verifying        : ansible-packaging-1-12.el8.noarch                                         36/37 
+  Verifying        : ansible-srpm-macros-1-12.el8.noarch                                       37/37 
+
+Installed:
+  ansible-9.2.0-1.el8.noarch                                                                         
+  ansible-collection-ansible-netcommon-5.3.0-1.el8.noarch                                            
+  ansible-collection-ansible-netcommon-doc-5.3.0-1.el8.noarch                                        
+  ansible-collection-ansible-posix-1.5.4-1.el8.noarch                                                
+  ansible-collection-ansible-utils-2.12.0-1.el8.noarch                                               
+  ansible-collection-awx-awx-24.3.1-1.el8.noarch                                                     
+                      
+  ansible-srpm-macros-1-12.el8.noarch                                                                
+  ansible-test-2.16.3-2.el8.x86_64                                                                   
+  git-core-2.43.7-1.el8_10.x86_64                                                                    
+  mpdecimal-2.5.1-3.el8.x86_64                                                                       
+  python3-jmespath-0.9.0-11.el8.noarch                                                               
+  python3.12-3.12.11-2.el8_10.x86_64                                                                 
+  python3.12-cffi-1.16.0-2.el8.x86_64                                                                
+  python3.12-cryptography-41.0.7-1.el8.x86_64                                                        
+  python3.12-libs-3.12.11-2.el8_10.x86_64                                                            
+  python3.12-pip-wheel-23.2.1-4.el8.noarch                                                           
+  python3.12-ply-3.11-2.el8.noarch                                                                   
+  python3.12-pycparser-2.20-2.el8.noarch                                                             
+  python3.12-pyyaml-6.0.1-2.el8.x86_64                                                               
+  rhel-system-roles-1.23.0-4.el8_10.noarch                                                           
+  sshpass-1.09-4.el8.x86_64                                                                          
+
+Complete!
+
+
+Switch back to your student user:
+[root@master ~]# su - student
+[student@master ~]$ ansible<tab><tab>
+ansible             ansible-connection  ansible-galaxy      ansible-pull        
+ansible-community   ansible-console     ansible-inventory   ansible-test        
+ansible-config      ansible-doc         ansible-playbook    ansible-vault       
+[student@master ~]$ 
+
+
+Task:38:CompletionStatus: Satyamev,Tejal,Nithyanandan Krishnan,sushandh,Taosif,Himanshu,Madhumithra,Shubham
+
+
+Configuration and Inventory details:
+Task:39
+
+[student@master ~]$ vim ansible.cfg 
+[defaults]
+inventory=myinventory
+remote_user=devops
+[student@master ~]$ 
+
+[student@master ~]$ vim myinventory 
+node1.example.com
+node2.example.com
+[student@master ~]$ 
+
+[student@master ~]$ ansible -i myinventory node1.example.com --list-hosts
+  hosts (1):
+    node1.example.com
+[student@master ~]$ ansible -i myinventory node2.example.com --list-hosts
+  hosts (1):
+    node2.example.com
+[student@master ~]$ ansible -i myinventory node3.example.com --list-hosts
+[WARNING]: Could not match supplied host pattern, ignoring: node3.example.com
+[WARNING]: No hosts matched, nothing to do
+  hosts (0):
+[student@master ~]$
+
+
+[student@master ~]$ vim myinventory 
+[webservers]
+node1.example.com
+[dbservers]
+node2.example.com
+
+[student@master ~]$ 
+
+[student@master ~]$ ansible -i myinventory webservers --list-hosts
+  hosts (1):
+    node1.example.com
+[student@master ~]$ ansible -i myinventory dbservers --list-hosts
+  hosts (1):
+    node2.example.com
+[student@master ~]$
+
+
+
+[student@master ~]$ vim myinventory
+[webserver]
+node1.example.com
+nodea.example.com
+[dbserver]
+node2.example.com
+nodeb.example.com
+[ips]
+192.168.1.[10:15]
+[student@master ~]$ ansible -i myinventory ips --list-hosts
+  hosts (6):
+    192.168.1.10
+    192.168.1.11
+    192.168.1.12
+    192.168.1.13
+    192.168.1.14
+    192.168.1.15
+[student@master ~]$ 
+
+
+Nested Group:
+
+[student@master ~]$ vim myinventory
+[webserver]
+node1.example.com
+nodea.example.com
+[dbserver]
+node2.example.com
+nodeb.example.com
+[ips]
+192.168.1.[10:15]
+[servers:children]
+webserver
+dbserver
+[student@master ~]$ ansible -i myinventory servers --list-hosts
+  hosts (4):
+    node1.example.com
+    nodea.example.com
+    node2.example.com
+    nodeb.example.com
+[student@master ~]$ 
+
+
+Task:39:CompletionStatus: Tejal,Satyamev,Nithyanandan Krishnan,sushandh,Taosif,Himanshu,Shubham
+
+yaml - format
+template - playbook
+
+
+[student@master ~]$ vim .vimrc
+set cursorcolumn
+[student@master ~]$ 
+
+
+[student@master ~]$ vim myfirstplay.yml 
+---
+- name: myfirstplay
+  hosts: node1.example.com
+  tasks:
+  - name: my first task
+    user:
+      name: u20
+      state: present
+  - name: my sec task
+    yum:
+      name: httpd
+      state: latest
+  - name: my third task
+    user:
+      name: u21
+      state: present
+[student@master ~]$ 
+
+[student@master ~]$ ansible-playbook firstplay.yml -v --syntax-check 
+Using /home/student/ansible.cfg as config file
+
+playbook: firstplay.yml
+[student@master ~]$ 
+
+
+
+
+
+
+[student@master ~]$ ansible-playbook firstplay.yml
+PLAY [myfirstplay] **********************************************************************************
+
+TASK [Gathering Facts] ******************************************************************************
+The authenticity of host 'node1.example.com (10.0.14.112)' can't be established.
+ECDSA key fingerprint is SHA256:Z5i9iLFXxwqbpx8od9pqF7QSxc2lImgnTxbTFm+tRbk.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+ok: [node1.example.com]
+
+TASK [my first task] ********************************************************************************
+fatal: [node1.example.com]: FAILED! => {"changed": false, "msg": "useradd: Permission denied.\nuseradd: cannot lock /etc/passwd; try again later.\n", "name": "u20", "rc": 1}
+
+PLAY RECAP ******************************************************************************************
+node1.example.com          : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[student@master ~]$
+    
+    
+Privilege_escalation:
+
+[student@master ~]$ vim ansible.cfg
+[defaults]
+inventory=myinventory
+remote_user=devops
+
+[privilege_escalation]
+become=True
+[student@master ~]$ 
+
+
+
+[student@master ~]$ ansible-playbook myfirstplay.yml 
+
+PLAY [myfirstplay] **********************************************************************************
+
+TASK [Gathering Facts] ******************************************************************************
+ok: [node1.example.com]
+
+TASK [my first task] ********************************************************************************
+changed: [node1.example.com]
+
+TASK [my sec task] **********************************************************************************
+changed: [node1.example.com]
+
+TASK [my third task] ********************************************************************************
+changed: [node1.example.com]
+
+PLAY RECAP ******************************************************************************************
+node1.example.com          : ok=4    changed=3    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+
+[student@master ~]$ 
+
+Task:40:CompletionStatus: Himanshu,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
